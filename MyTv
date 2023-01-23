@@ -11,13 +11,13 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 https://git.io/JgkAb
 #https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1, group-title="港澳台"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg.png", 中天新聞台
-https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1, group-title="港澳台"tvg-logo="http://www.tvyan.com/uploads/dianshi/ttvtv.jpg", 台视新聞台
-https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1, group-title="港澳台"tvg-logo="https://cc.tvbs.com.tw/img/upload/2021/03/03/20210303100057-83c4f845.png", TVBS新聞台
-https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1, group-title="港澳台 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
-https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽经济高清
@@ -241,23 +241,23 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="超高清", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 
-#EXTINF:-1 group-title="Global",福克斯新闻FOX News Now (720p)
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦",福克斯新闻FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Global",Bloomberg TV
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦",Bloomberg TV
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",ArirangTV
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",ArirangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1, group-title="Global" tvg-logo="https://pic.pngsucai.com/00/12/53/42051dd93324c5a3.webp", 半岛新闻
+#EXTINF:-1, group-title="Global 🇺🇸🇬🇧🇶🇦" tvg-logo="https://pic.pngsucai.com/00/12/53/42051dd93324c5a3.webp", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="Global"  tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg",NHK华语视界
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦"  tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg",NHK华语视界
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-#EXTINF:-1 group-title="Global" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHKWorld
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="Global",CBS News
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-#EXTINF:-1 group-title="Global",俄罗斯中文
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, group-title="港澳台", 凤凰中文
