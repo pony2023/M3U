@@ -73,6 +73,10 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-108
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png", 北京卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="省级卫视",北京文艺BTV-2
+https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
+#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="省级卫视",北京科教BTV-3
+https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #EXTINF:-1, group-title="省级卫视"tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视高清
@@ -128,19 +132,22 @@ http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
 #EXTINF:-1, group-title="NewTV" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" group-title="NewTV",新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 #EXTINF:-1, group-title="NewTV", 精品综合
 http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1, group-title="NewTV",超级综艺
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
 #EXTINF:-1, group-title="NewTV",金牌综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="NewTV",求索纪录
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
 #EXTINF:-1, group-title="NewTV",精品纪录
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1, group-title="NewTV", tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1, group-title="NewTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" ,北京纪实
-#
+http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1, group-title="NewTV",超级体育
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
 #EXTINF:-1, group-title="NewTV",超级电影
@@ -165,6 +172,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 http://159.75.85.63:5828/4kys.php
 #EXTINF:-1, group-title="NewTV", 4K高清影视
 http://159.75.85.63:5681/sxg.php
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="NewTV",CHC家庭影院
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+#EXTINF:-1, group-title="NewTV", 黑莓电影
+http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 
 #EXTINF:-1 group-title="iHOT🇨🇳️" tvg-logo="http://n.ysyz.top:99/buyaolian/aiyx.png",爱院线
 http://39.135.7.132:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
