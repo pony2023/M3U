@@ -51,8 +51,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 
 #EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽卫视高清
-http://120
-.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
 #EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 #EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视高清
