@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1, group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文HD
+#EXTINF:-1, group-title="港澳台外" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文HD
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-#EXTINF:-1, group-title="港澳台"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯HD
+#EXTINF:-1, group-title="港澳台外"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯HD
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1, group-title="港澳台"tvg-logo="https://www.wikiwand.com/zh-hans/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#Media/File:FTV_News_Logo.png", 民视新闻
+#EXTINF:-1, group-title="港澳台外"tvg-logo="https://www.wikiwand.com/zh-hans/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#Media/File:FTV_News_Logo.png", 民视新闻
 https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1, group-title="港澳台", 中天新聞台
+#EXTINF:-1, group-title="港澳台外", 中天新聞台
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1, group-title="港澳台", 台视新聞台
+#EXTINF:-1, group-title="港澳台外", 台视新聞台
 https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1, group-title="港澳台", TVBS新聞台
+#EXTINF:-1, group-title="港澳台外", TVBS新聞台
 https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-#EXTINF:-1, group-title="港澳台", 鏡電視新聞台
+#EXTINF:-1, group-title="港澳台外", 鏡電視新聞台
 https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 
@@ -129,7 +129,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 #EXTINF:-1, group-title="其他", 超级电影（测试）
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 #EXTINF:-1, group-title="其他", 超级电视剧（测试）
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="其他",半岛新闻
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
+#EXTINF:-1, group-title="港澳台外", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1, group-title="超高清"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
