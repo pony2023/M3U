@@ -1,0 +1,144 @@
+#EXTM3U
+#EXTINF:-1, group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文HD
+http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+#EXTINF:-1, group-title="港澳台"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯HD
+http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+
+
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽经济高清
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽综艺高清
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+
+
+#EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K-50P
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV-1高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", CCTV-2高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png", CCTV-3高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png", CCTV-4高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV-5高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png", CCTV5+高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png", CCTV-6高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png", CCTV-7高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png", CCTV-8高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png", CCTV-9高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png", CCTV-10高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png", CCTV-11高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png", CCTV-12高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png", CCTV-13高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png", CCTV-14高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png", CCTV-15高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV-16高清4M
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png", CCTV-17高清
+http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽卫视高清
+http://120
+.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 五星体育
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png", 北京卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视"tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-jiangsustv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/tianjin.png", 天津卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视高清
+http://120.210.193.151:8006/120000001002/XMTshandongwshd/index.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/liaoning.png", 辽宁卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-liaoningstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/jiangxi.png", 江西卫视高清
+http://120.210.193.151:8006/120000001002/XMTjiangxiwshd/index.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/guizhou.png", 贵州卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-guizhoustv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/hubei.png", 湖北卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/hebei.png", 河北卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hebeistv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/chongqing.png", 重庆卫视高清
+http://120.210.193.151:8006/120000001002/XMTchongqingwshd/index.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/sichuan.png", 四川卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/gansu.png", 甘肃卫视高清
+http://120.210.193.151:8006/120000001002/XMTgswshd/index.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/dongnan.png", 东南卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/henan.png", 河南卫视高清
+http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
+#EXTINF:-1, group-title="地方卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png", 黑龙江卫视高清
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽经济高清
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽影视高清
+http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽科教高清
+http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽综艺高清
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽公共高清
+http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 睛彩安徽
+http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚健康
+http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚影视
+http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
+http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
+#EXTINF:-1, group-title="其他", 超级综艺（测试）
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
+#EXTINF:-1, group-title="其他", 超级体育（测试）
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
+#EXTINF:-1, group-title="其他", 超级电影（测试）
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
+#EXTINF:-1, group-title="其他", 超级电视剧（测试）
+
+#EXTINF:-1, group-title="超高清"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
+http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1, group-title="超高清", 苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场4K
+http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1, group-title="超高清", 4K影视
+http://159.75.85.63:5828/4kys.php
+#EXTINF:-1, group-title="超高清", 4K超高清影视
+http://159.75.85.63:5681/sxg.php
+
+#EXTINF:-1, group-title="港澳台", 凤凰中文
+#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1, group-title="港澳台", 凤凰资讯
+#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1, group-title="超高清", CCTV 4K
+#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+#EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png", 欢笑剧场
+#https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1, group-title="超高清", BTV纪实科教
+#http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
