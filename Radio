@@ -1,13 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1,CNR交通广播
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+
 #EXTINF:-1,CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1,CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1,CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1,CNR交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1,CNR经典音乐
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1,CNR中华之声
