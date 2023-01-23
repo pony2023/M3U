@@ -70,8 +70,6 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-108
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
-#EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png", 北京卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视"tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视高清
@@ -134,6 +132,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 #EXTINF:-1, group-title="其他", 超级电视剧（测试）
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
+#EXTINF:-1, group-title="其他" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 五星体育
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1, group-title="港澳台外"tvg-logo="https://pic.pngsucai.com/00/12/53/42051dd93324c5a3.webp", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -143,9 +143,9 @@ http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场4K
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1, group-title="超高清", 4K影视
+#EXTINF:-1, group-title="其他", 4K影视
 http://159.75.85.63:5828/4kys.php
-#EXTINF:-1, group-title="超高清", 4K超高清影视
+#EXTINF:-1, group-title="其他", 4K高清影视
 http://159.75.85.63:5681/sxg.php
 
 #EXTINF:-1, group-title="港澳台", 凤凰中文
