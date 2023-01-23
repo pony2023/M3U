@@ -7,7 +7,7 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="HOYTV.hk" status="timeout",HOY TV 
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1, group-title="港澳台外"tvg-logo="http://www.zyz98.com/uploads/ftvnews.jpg", 民视新闻
+#EXTINF:-1, group-title="港澳台外"tvg-logo="https://www.ftv.com.tw/images/Ch_04.png", 民视新闻
 https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1, group-title="港澳台外", 中天新聞台
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
