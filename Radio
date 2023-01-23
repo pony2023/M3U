@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1,北京经典调频
-http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1,北京文艺广播
-http://ls.qingting.fm/live/333.m3u8
-#EXTINF:-1,北京交通广播
-http://ls.qingting.fm/live/336.m3u8
-#EXTINF:-1,北京音乐广播
-http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1,北京新闻广播
-http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1,北京城市广播
-http://ls.qingting.fm/live/345.m3u8
+
 #EXTINF:-1,CNR交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1,CNR中国之声
@@ -55,6 +44,32 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
+
+#EXTINF:-1,北京经典调频
+http://live.funhillrm.com/4/sd/live.m3u8
+#EXTINF:-1,北京文艺广播
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1,北京交通广播
+http://ls.qingting.fm/live/336.m3u8
+#EXTINF:-1,北京音乐广播
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1,北京新闻广播
+http://ls.qingting.fm/live/339.m3u8
+#EXTINF:-1,北京城市广播
+http://ls.qingting.fm/live/345.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",江苏经典流行音乐廣播
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",杭州动听968音乐调频
+http://lhttp.qingting.fm/live/4866/64k.mp3
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" ,宁波新闻综合广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波动感105 FM105.2
+http://ls.qingting.fm/live/3047946.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
+http://ls.qingting.fm/live/1140.m3u8
+
 #EXTINF:-1,80后音悦
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1,经典FM
@@ -82,10 +97,7 @@ http://live.xmcdn.com:80/live/2628/64.m3u8
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",江苏经典流行音乐廣播
-http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",杭州动听968音乐调频
-http://lhttp.qingting.fm/live/4866/64k.mp3
+
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="http://iptv.cooltv.top/logo/亚洲音乐台.png",AsiaFM亚洲经典台
 https://lhttp.qingting.fm/live/5021912/64k.mp3
 
@@ -99,14 +111,7 @@ http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",北京音乐廣播
 http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" ,宁波新闻综合广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
-http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波动感105 FM105.2
-http://ls.qingting.fm/live/3047946.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
-http://ls.qingting.fm/live/1140.m3u8
+
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
 
