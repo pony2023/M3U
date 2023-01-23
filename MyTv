@@ -11,7 +11,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1, group-title="港澳台外"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg.png", 中天新聞台
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1, group-title="港澳台外"tvg-logo="http://www.camera-man.cn/wiki/uploads/201009/12855499628rOmRDOv_s.jpg", 台视新聞台
+#EXTINF:-1, group-title="港澳台外"tvg-logo="http://www.tvyan.com/uploads/dianshi/ttvtv.jpg", 台视新聞台
 https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1, group-title="港澳台外"tvg-logo="https://cc.tvbs.com.tw/img/upload/2021/03/03/20210303100057-83c4f845.png", TVBS新聞台
 https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
