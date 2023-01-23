@@ -71,36 +71,9 @@ http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
 
-#EXTINF:-1,80后音悦
-http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1,经典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1,有声文摘
-http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
-#EXTINF:-1,安全百科
-http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1,民谣音乐
-http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-#EXTINF:-1,天籁古典
-http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1,摇滚天空
-http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-#EXTINF:-1,国乐悠扬
-http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
-http://cnlive.cnr.cn/hls/yyzxgb.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",怀旧金曲频道廣播
-http://cnlive.cnr.cn/hls/hjyyzs.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️",老歌音乐台
-http://live.xmcdn.com:80/live/2628/64.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png",經典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
-http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="http://iptv.cooltv.top/logo/亚洲音乐台.png",AsiaFM亚洲经典台
-https://lhttp.qingting.fm/live/5021912/64k.mp3
+https://http.qingting.fm/live/5021912/64k.mp3
 
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR音乐之声
 http://sk.cri.cn/887.m3u8
