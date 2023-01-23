@@ -55,28 +55,6 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1,Today’s Hits
-http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-#EXTINF:-1,Pop Hits
-http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-#EXTINF:-1,Alternative Hits
-http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-#EXTINF:-1,Country Roads
-http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-#EXTINF:-1,Relax & Unwind
-http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-#EXTINF:-1,Smooth Jazz
-http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-#EXTINF:-1,The Hit List
-http://rfcmedia.streamguys1.com/srhitlist.mp3
-#EXTINF:-1,Dance One
-http://rfcmedia.streamguys1.com/srdanceone.mp3
-#EXTINF:-1,Disco Beats
-http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-#EXTINF:-1,Today's Country Hits
-http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-#EXTINF:-1,Coffee House
-http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1,80后音悦
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1,经典FM
@@ -132,7 +110,28 @@ http://ls.qingting.fm/live/1140.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
 
-
+#EXTINF:-1,Today’s Hits
+http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1,Pop Hits
+http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+#EXTINF:-1,Alternative Hits
+http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+#EXTINF:-1,Country Roads
+http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+#EXTINF:-1,Relax & Unwind
+http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+#EXTINF:-1,Smooth Jazz
+http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+#EXTINF:-1,The Hit List
+http://rfcmedia.streamguys1.com/srhitlist.mp3
+#EXTINF:-1,Dance One
+http://rfcmedia.streamguys1.com/srdanceone.mp3
+#EXTINF:-1,Disco Beats
+http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+#EXTINF:-1,Today's Country Hits
+http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+#EXTINF:-1,Coffee House
+http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1,BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
 #EXTINF:-1,DRHK
