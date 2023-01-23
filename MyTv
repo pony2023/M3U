@@ -3,7 +3,11 @@
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1, group-title="港澳台外"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯HD
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1, group-title="港澳台外"tvg-logo="https://www.wikiwand.com/zh-hans/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#Media/File:FTV_News_Logo.png", 民视新闻
+#EXTINF:-1, group-title="港澳台外",有線新聞台
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="HOYTV.hk" status="timeout",HOY TV 
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, group-title="港澳台外"tvg-logo="http://www.zyz98.com/uploads/ftvnews.jpg", 民视新闻
 https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1, group-title="港澳台外", 中天新聞台
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
