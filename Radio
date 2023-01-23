@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1,北京经典调频
+http://live.funhillrm.com/4/sd/live.m3u8
+#EXTINF:-1,北京文艺广播
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1,北京交通广播
+http://ls.qingting.fm/live/336.m3u8
+#EXTINF:-1,北京音乐广播
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1,北京新闻广播
+http://ls.qingting.fm/live/339.m3u8
+#EXTINF:-1,北京城市广播
+http://ls.qingting.fm/live/345.m3u8
+#EXTINF:-1,CNR交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1,CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1,CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1,CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1,CNR经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1,CNR中华之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1,CNR神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1,CNR湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1,CNR香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1,CNR民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1,CNR文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1,CNR乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1,CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1,CRI轻松调频 
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1,CRI环球资讯 
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1,CRI英语资讯 
+http://cnlive.cnr.cn/hls/yyzxgb.m3u8
+#EXTINF:-1,CRI中文环球  
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,CRI南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1,BCC中广音乐
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1,BCC中广新闻
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1,BCC中广流行
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1,Today’s Hits
+http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1,Pop Hits
+http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+#EXTINF:-1,Alternative Hits
+http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+#EXTINF:-1,Country Roads
+http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+#EXTINF:-1,Relax & Unwind
+http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+#EXTINF:-1,Smooth Jazz
+http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+#EXTINF:-1,The Hit List
+http://rfcmedia.streamguys1.com/srhitlist.mp3
+#EXTINF:-1,Dance One
+http://rfcmedia.streamguys1.com/srdanceone.mp3
+#EXTINF:-1,Disco Beats
+http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+#EXTINF:-1,Today's Country Hits
+http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+#EXTINF:-1,Coffee House
+http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+#EXTINF:-1,80后音悦
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1,经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1,有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1,安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1,民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1,天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1,摇滚天空
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1,国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
+http://cnlive.cnr.cn/hls/yyzxgb.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",怀旧金曲频道廣播
+http://cnlive.cnr.cn/hls/hjyyzs.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",老歌音乐台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png",經典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",江苏经典流行音乐廣播
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",杭州动听968音乐调频
+http://lhttp.qingting.fm/live/4866/64k.mp3
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="http://iptv.cooltv.top/logo/亚洲音乐台.png",AsiaFM亚洲经典台
+https://lhttp.qingting.fm/live/5021912/64k.mp3
+
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR音乐之声
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR轻松调频廣播
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",国际流行音乐廣播
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",经典音乐廣播 101.8
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",北京音乐廣播
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" ,宁波新闻综合广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",寧波动感105 FM105.2
+http://ls.qingting.fm/live/3047946.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
+http://ls.qingting.fm/live/1140.m3u8
+#EXTINF:-1 group-title="網絡廣播 🇨🇳️",华语金曲500首
+http://ls.qingting.fm/live/3412131.m3u8
+
+
+#EXTINF:-1,BBC News
+https://utulsa.streamguys1.com/KWGSHD3-MP3
+#EXTINF:-1,DRHK
+http://ice.digitalradiohk.net:8000/drhk
+#EXTINF:-1,One FM
+http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
+#EXTINF:-1,Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+#EXTINF:-1,Hao FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
+#EXTINF:-1,Kiss FM
+http://22253.live.streamtheworld.com:3690/KISS_92.mp3
+#EXTINF:-1,Money FM
+http://22253.live.streamtheworld.com/MONEY_893.mp3
+#EXTINF:-1,CGTN News
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,Capital FM
+http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
+#EXTINF:-1,CNA938
+http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
+#EXTINF:-1,NPR News
+http://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1,MSNBC Radio
+http://peridot.streamguys.com:7850/live
+
+
