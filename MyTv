@@ -5,6 +5,14 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 #EXTINF:-1, group-title="港澳台"tvg-logo="https://www.wikiwand.com/zh-hans/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0#Media/File:FTV_News_Logo.png", 民视新闻
 https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1, group-title="港澳台", 中天新聞台
+https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1, group-title="港澳台", 台视新聞台
+https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1, group-title="港澳台", TVBS新聞台
+https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1, group-title="港澳台", 鏡電視新聞台
+https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 
 
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽经济高清
