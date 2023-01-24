@@ -44,6 +44,14 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="台湾",BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia927.png" group-title="台湾",AsiaFM亚洲电台
+http://stream.rcs.revma.com/xpgtqc74hv8uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia923.png" group-title="台湾",AsiaFM亚太电台
+http://stream.rcs.revma.com/kydend74hv8uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/flyfm.png" group-title="台湾",FlyRadio飞扬调频
+http://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="境外广播",飞碟电台
+http://n08.rcs.revma.com/em90w4aeewzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="台湾" radio="true",News98新闻台
 http://stream.rcs.revma.com/em90w4aeewzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="台湾" radio="true",飞碟电台
@@ -59,7 +67,7 @@ http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 http://23023.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/my.png" group-title="新马" radio="true",MY
 https://astro1.rastream.com/myfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="新马" radio="true",one FM 913
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="新马" radio="true",One FM 913
 https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好fm.png" group-title="新马" radio="true",好FM 963
 https://22283.live.streamtheworld.com/HAO_963AAC.aac
@@ -69,6 +77,7 @@ https://22393.live.streamtheworld.com/YES933_PREM.aac
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="新马" radio="true",UFM 1003
 https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽之声.png" group-title="安徽" radio="true",安徽之声
 https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
@@ -144,7 +153,8 @@ http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 #EXTINF:-1 group-title="网播",国际流行音乐广播
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553160555011.jpg" group-title="网播",格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
 
 #EXTINF:-1,group-title="境外" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png",BBC News
