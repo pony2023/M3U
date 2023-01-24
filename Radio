@@ -5,12 +5,16 @@ http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/音乐之声.png" group-title="中央",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/阅读之声.png" group-title="中央",CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/文艺之声.png" group-title="中央",CNR文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="中央",CRI HIT FM 
+http://sk.cri.cn/887.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中国交通广播.png" group-title="中央",CNR交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/经典音乐广播.png" group-title="中央",CNR经典音乐
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/hitfm联播网.png" group-title="中央",CRI HIT FM 
-http://sk.cri.cn/887.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中华之声.png" group-title="中央",CNR中华之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/神州之声.png" group-title="中央",CNR神州之声
@@ -21,24 +25,18 @@ http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/民族之声.png" group-title="中央",CNR民族之声
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/文艺之声.png" group-title="中央",CNR文艺之声
-http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/乡村之声.png" group-title="中央",CNR乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/阅读之声.png" group-title="中央",CNR阅读之声
-http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="中央",CRI轻松调频 
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="中央",CRI环球资讯 
 http://sk.cri.cn/905.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="中央",CRI南海之声
+http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/chinaplusradio.png" group-title="中央",CRI英语环球广播 
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="中央",CRI华语环球广播  
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="中央",CRI南海之声
-http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/世界华声.png" group-title="中央",CRI世界华声
-http://sk.cri.cn/hxfh.m3u8
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="台湾",BCC中广音乐
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
