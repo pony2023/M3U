@@ -73,9 +73,9 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-108
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png", 北京卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
-#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://github.com/fanmingming/live/blob/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E6%96%87%E8%89%BA.png" group-title="省级卫视",北京文艺BTV-2
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E6%96%87%E8%89%BA.png" group-title="省级卫视",北京文艺
 https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
-#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://github.com/fanmingming/live/blob/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E7%A7%91%E6%95%99.png" group-title="省级卫视",北京科教BTV-3
+#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E7%A7%91%E6%95%99.png" group-title="省级卫视",北京科教
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #EXTINF:-1, group-title="省级卫视"tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视高清
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
@@ -230,10 +230,9 @@ http://39.135.7.132:6610/000000001000/6000000006000090630/index.m3u8?channel-id=
 
 #EXTINF:-1, group-title="超高清"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1, group-title="超高清", 北京IPTV-4K
+#EXTINF:-1, group-title="超高清"tvg-logo="https://live.fanmingming.com/tv/beijing.png", 北京IPTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1, group-title="超高清"
-tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
+#EXTINF:-1, group-title="超高清"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场4K
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
