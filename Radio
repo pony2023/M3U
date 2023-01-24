@@ -1,9 +1,7 @@
 #EXTM3U
-
-
-#EXTINF:-1,CNR中国之声
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中国之声.png" group-title="中央台"，CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1,CNR经济之声
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/经济之声.png" group-title="中央台",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1,CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
@@ -70,11 +68,8 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
-
-
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️" tvg-logo="http://iptv.cooltv.top/logo/亚洲音乐台.png",AsiaFM亚洲经典台
 https://http.qingting.fm/live/5021912/64k.mp3
-
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR音乐之声
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",CNR轻松调频廣播
@@ -85,7 +80,6 @@ http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",北京音乐廣播
 http://ls.qingting.fm/live/332.m3u8
-
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
 
