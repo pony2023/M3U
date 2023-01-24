@@ -116,10 +116,35 @@ https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网播" radio="true",萤火虫网络台
 http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1 group-title="网播",国际流行音乐广播
-http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+#EXTINF:-1 group-title="网播 🇨🇳️" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网播 🇨🇳️",天籁之音-经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
 #EXTINF:-1 group-title="网播",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
+#EXTINF:-1 group-title="网播",老歌音乐台
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1 group-title="网播", tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png",經典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 group-title="网播",80后音悦
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 group-title="网播",经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 group-title="网播",有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1 group-title="网播",安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1 group-title="网播",民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 group-title="网播",天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 group-title="网播",摇滚天空
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1 group-title="网播",国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+#EXTINF:-1 group-title="网播",国际流行音乐广播
+http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+
 
 
 #EXTINF:-1,group-title="境外" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png",BBC News
