@@ -112,11 +112,11 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="综合广播" radio="true",上海长三角之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="地方" radio="true",上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网络广播" radio="true",萤火虫网络台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网播" radio="true",萤火虫网络台
 http://211.149.226.193:8066/1022.mp3
 #EXTINF:-1 group-title="网播",国际流行音乐广播
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
