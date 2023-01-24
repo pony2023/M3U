@@ -230,7 +230,7 @@ http://39.135.7.132:6610/000000001000/6000000006000090630/index.m3u8?channel-id=
 
 #EXTINF:-1, group-title="超高清"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1, group-title="超高清"tvg-logo="https://live.fanmingming.com/tv/beijing.png", 北京IPTV-4K
+#EXTINF:-1, group-title="超高清"tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202110/28/121130dmqklykr0l71t0r5.png", 北京IPTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1, group-title="超高清"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
