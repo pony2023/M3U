@@ -138,7 +138,7 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1, group-title="NewTV📺️"tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",超级综艺
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",金牌综艺
+#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png",金牌综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="NewTV📺️",求索纪录
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
@@ -236,7 +236,8 @@ http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场4K
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1, group-title="超高清", 纯享4K
+#EXTINF:-1, group-title="超高清"
+tvg-logo="https://github.com/fanmingming/live/blob/main/tv/4K.png?raw=true", 纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="超高清", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
