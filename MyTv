@@ -237,6 +237,8 @@ http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="超高清📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+EXTINF:-1, group-title="超高清📀", BTV纪实科教
+http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/FOXHD.png",福克斯新闻FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -282,7 +284,5 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png", 欢笑剧场
 #https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-EXTINF:-1, group-title="超高清", BTV纪实科教
-http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E7%A7%91%E6%95%99.png" group-title="省级卫视",北京科教
 #http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
