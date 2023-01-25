@@ -113,25 +113,25 @@ http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",全球大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",全球大片
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",华语影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",华语影院
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",星光影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",星光影院
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",谍战剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",谍战剧场
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",热门剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",热门剧场
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",看天下精选
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",看天下精选
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",热门综艺
-http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",健康养生
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",热门综艺
+#http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",健康养生
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",宝宝动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",宝宝动画
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV",百变课堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%99%BE%E8%A7%86%E9%80%9A.png" group-title="BesTV🎬",百变课堂
 http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 
 #EXTINF:-1, group-title="NewTV📺️" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 五星体育
