@@ -6,7 +6,7 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 
 #EXTINF:-1, group-title="4K频道📀" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-http://159.75.85.63:5679/cctv4k.php
+#http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", CCTV2
