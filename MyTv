@@ -254,7 +254,7 @@ https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",ArirangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1, group-title="Global🌎" tvg-logo="https://pic.pngsucai.com/00/12/53/42051dd93324c5a3.webp", 半岛新闻
+#EXTINF:-1, group-title="Global🌎" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8D%8A%E5%B2%9B%E6%96%B0%E9%97%BB.png", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Global🌎"  tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg",NHK华语视界
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
