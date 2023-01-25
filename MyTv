@@ -282,7 +282,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png", 欢笑剧场
 #https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1, group-title="超高清", BTV纪实科教
-#http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+EXTINF:-1, group-title="超高清", BTV纪实科教
+http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E7%A7%91%E6%95%99.png" group-title="省级卫视",北京科教
 #http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
