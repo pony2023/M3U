@@ -268,9 +268,9 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
 https://git.io/JgkAb
 #https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/48/CTI_News_Logo.jpg/200px-CTI_News_Logo.jpg.png", 中天新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png", 中天新闻台
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://www.tvyan.com/uploads/dianshi/ttvtv.jpg", 台视新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@140@1565.png", 台视新闻台
 https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://cc.tvbs.com.tw/img/upload/2021/03/03/20210303100057-83c4f845.png", TVBS新闻台
 https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
