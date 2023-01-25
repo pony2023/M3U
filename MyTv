@@ -234,7 +234,7 @@ http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="4K频道📀" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1, group-title="4K频道📀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/4K.png", 纯享4K
+#EXTINF:-1, group-title="4K频道📀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
