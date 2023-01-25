@@ -4,8 +4,10 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 
-#EXTINF:-1, group-title="超高清📀" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
+#EXTINF:-1, group-title="4K频道📀" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1, group-title="4K频道📀" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", CCTV2
@@ -225,22 +227,25 @@ http://39.135.7.132:6610/000000001000/6000000006000100630/index.m3u8?channel-id=
 #EXTINF:-1 group-title="iHOT📽" tvg-logo="http://n.ysyz.top:99/buyaolian/aijt.png",爱家庭
 http://39.135.7.132:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
 
-#EXTINF:-1, group-title="超高清📀"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
+#EXTINF:-1, group-title="4K频道📀"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1, group-title="超高清📀"tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202110/28/121130dmqklykr0l71t0r5.png", 北京IPTV
+#EXTINF:-1, group-title="4K频道📀"tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202110/28/121130dmqklykr0l71t0r5.png", 北京IPTV
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1, group-title="超高清📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
+#EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1, group-title="超高清📀" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
+#EXTINF:-1, group-title="4K频道📀" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1, group-title="超高清📀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/4K.png", 纯享4K
+#EXTINF:-1, group-title="4K频道📀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/4K.png", 纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1, group-title="超高清📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
+#EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="超高清📀",河南4K
-http://74.119.193.113:8280/live/hn4k/hls.m3u8
-#EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="超高清📀",BesTV-4K
-http://74.119.193.113:8280/live/bestv4k/hls.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="4K频道📀",Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="河南4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/hn4k.png" group-title="4K频道📀",河南4K
+#http://74.119.193.113:8280/live/hn4k/hls.m3u8
+#EXTINF:-1 tvg-name="BesTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg" group-title="4K频道📀",BesTV-4K
+#http://74.119.193.113:8280/live/bestv4k/hls.m3u8
 
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/FOXHD.png",福克斯新闻FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
