@@ -96,26 +96,26 @@ https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
 
 
 
-#EXTINF:-1,group-title="北京" tvg-logo="",北京经典调频
+#EXTINF:-1,group-title="北京" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%8C%97%E4%BA%AC%E7%BB%8F%E5%85%B8969.png",北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1,group-title="北京" tvg-logo="",北京文艺广播
+#EXTINF:-1,group-title="北京" tvg-logo="https://live.fanmingming.com/radio/北京文艺广播.png",北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
-#EXTINF:-1,group-title="北京",北京交通广播
+#EXTINF:-1,group-title="北京"tvg-logo="https://live.fanmingming.com/radio/北京交通广播.png",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
 #EXTINF:-1,group-title="北京" tvg-logo="https://live.fanmingming.com/radio/北京音乐广播.png",北京音乐广播
 http://ls.qingting.fm/live/332.m3u8
-#EXTINF:-1,group-title="北京",北京新闻广播
+#EXTINF:-1,group-title="北京"tvg-logo="https://live.fanmingming.com/radio/北京新闻广播.png",北京新闻广播
 http://ls.qingting.fm/live/339.m3u8
-#EXTINF:-1,group-title="北京",北京城市广播
+#EXTINF:-1,group-title="北京"tvg-logo="https://live.fanmingming.com/radio/北京城市广播.png",北京城市广播
 http://ls.qingting.fm/live/345.m3u8
 
-#EXTINF:-1 group-title="地方",江苏经典流行音乐广播
+#EXTINF:-1 group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E6%B1%9F%E8%8B%8F%E7%BB%8F%E5%85%B8%E6%B5%81%E8%A1%8C%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",江苏经典流行音乐广播
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" ,宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 group-title="地方",宁波动感FM105.2
+#EXTINF:-1 group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%AE%81%E6%B3%A2%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png",宁波动感FM105.2
 http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
@@ -125,7 +125,7 @@ https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网播" radio="true",萤火虫网络台
 http://211.149.226.193:8066/1022.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播",动感音悦台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网播",动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 group-title="网播" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
