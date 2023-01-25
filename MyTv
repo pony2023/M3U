@@ -4,13 +4,6 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 
-
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽经济生活
-http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽综艺体育
-http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
-
-
 #EXTINF:-1, group-title="超高清📀" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
