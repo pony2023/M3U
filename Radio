@@ -44,6 +44,9 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="台湾",BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 group-title="广播",台北广播电台FM93.1
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia927.png" group-title="台湾",AsiaFM亚洲电台
 http://stream.rcs.revma.com/xpgtqc74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia923.png" group-title="台湾",AsiaFM亚太电台
@@ -121,6 +124,13 @@ http://ls.qingting.fm/live/3047946.m3u8
 http://ls.qingting.fm/live/1140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="地方" radio="true",上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 group-title="地方",厦门音乐广播
+http://ls.qingting.fm/live/1739.m3u8
+#EXTINF:-1 group-title="地方",上海动感101
+http://ls.qingting.fm/live/274.m3u8
+#EXTINF:-1 group-title="地方",深圳飞扬音乐台
+http://ls.qingting.fm/live/1271.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2013/channel_logo/4998.jpg" group-title="网播" radio="true",萤火虫网络台
@@ -131,11 +141,21 @@ http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网播",天籁之音-经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
+#EXTINF:-1 group-title="广播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
 #EXTINF:-1 group-title="网播",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
 #EXTINF:-1 group-title="网播",老歌音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
 #EXTINF:-1 group-title="网播",国际流行音乐广播
+#EXTINF:-1 group-title="地方",潮流音乐台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 group-title="地方",动感音乐台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 group-title="地方",格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+
+
 http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲热歌台.png" group-title="网播",AsiaFM 亚洲热歌台
 http://asiafm.net:8000/asiafmhot
