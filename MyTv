@@ -59,7 +59,7 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 group-title="CCTV"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN 纪录
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/CNC.png",CNC
+#EXTINF:-1 group-title="CCTV"tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png",CNC
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:-1 group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/CNC.png",CNC中文
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
@@ -138,9 +138,16 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1, group-title="其他TV💎" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" ,BTV科教
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他TV💎",金鹰纪实 
-#@https://live.v1.mk/aishang/jyjs
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="其他TV💎",求索记录
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
+#@http://39.135.7.132:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://n.ysyz.top:99/buyaolian/qsdw.png" group-title="其他TV💎",求索动物
+http://39.135.7.132:6610/000000001000/6000000002000010046/1.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://n.ysyz.top:99/buyaolian/qskx.png" group-title="其他TV💎",求索科学
+http://39.135.7.132:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/qssh.png" group-title="其他TV💎",求索生活
+http://39.135.7.132:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E6%96%87%E8%89%BA.png" group-title="其他TV💎",BTV文艺
 https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1, group-title="其他TV💎"tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg", 4K影视
