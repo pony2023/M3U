@@ -96,6 +96,7 @@ http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png", 黑龙江卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 
+
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽经济生活
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽影视
@@ -114,6 +115,7 @@ http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
 http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
+
 
 #EXTINF:-1, group-title="其他TV💎" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 上海五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
@@ -145,7 +147,8 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
 #EXTINF:-1, group-title="其他TV💎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png", 黑莓电影
 http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
-#https://live.v1.mk/aishang/chcjtyy;
+#@https://live.v1.mk/aishang/chcjtyy;
+
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8C%97%E4%BA%ACIPTV%20.png", 北京IPTV
@@ -154,6 +157,7 @@ http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="4K频道📀" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+#@https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1, group-title="4K频道📀" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
@@ -204,6 +208,8 @@ https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.wixstatic.com/media/247b98_4e54b293226243788f82a00cd69aedae~mv2.png/v1/fill/w_266,h_127,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Hoy%20Logo.png", HOY TV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰",澳门莲花
@@ -326,8 +332,6 @@ http://39.135.7.132:6610/000000001000/6000000006000090630/index.m3u8?channel-id=
 #http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1, group-title="超高清🇭🇰", CCTV 4K
 #https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1, group-title="超高清" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png", 欢笑剧场
-#https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E7%A7%91%E6%95%99.png" group-title="省级卫视",北京科教
 #http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1, group-title="超高清📀", BTV纪实科教
