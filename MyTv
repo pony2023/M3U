@@ -143,7 +143,7 @@ http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1, group-title="4K频道📀" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8，https://live.v1.mk/aishang/as4k
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8,https://live.v1.mk/aishang/as4k
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="4K频道📀",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
