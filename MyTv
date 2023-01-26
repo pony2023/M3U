@@ -55,7 +55,7 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//ind
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",CCTV文化精品
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
-http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/cgtn.png",CGTN
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 group-title="CCTV"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN 纪录
@@ -358,8 +358,6 @@ http://39.135.7.132:6610/000000001000/6000000006000100630/index.m3u8?channel-id=
 http://39.135.7.132:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
 
 
-
-
 #EXTINF:-1, group-title="超高清📀", BTV纪实科教
-http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+#http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 
