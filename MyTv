@@ -51,6 +51,8 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="CCTV",CCTV第一剧场
 http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="CCTV",CCTV文化精品
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
 #EXTINF:-1 group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/cgtn.png",CGTN
@@ -179,9 +181,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/Nature.png", 4K影视,Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title=""4K频道📀"tvg-logo="https://www.lyngsat-stream.com/logo/tv/zz/zz-4000-rs.png",MUZZIK ZZ4000 4K
+#EXTINF:-1 group-title="4K频道📀"tvg-logo="https://www.lyngsat-stream.com/logo/tv/zz/zz-4000-rs.png",MUZZIK ZZ4000 4K
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-#EXTINF:-1 group-title=""4K频道📀"tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png",Loupe 4K
+#EXTINF:-1 group-title="4K频道📀"tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
@@ -225,7 +227,7 @@ https://git.io/JgkAb
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
 https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png", TVBS新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png", TVBS新闻台
 https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
 https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
