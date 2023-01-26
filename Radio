@@ -98,7 +98,7 @@ https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
 
 
 
-#EXTINF:-1,group-title="北京"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%8C%97%E4%BA%AC%E7%BB%8F%E5%85%B8969.png",北京经典调频
+#EXTINF:-1,group-title="北京"tvg-logo="https://live.fanmingming.com/radio/北京经典969.png",北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1,group-title="北京" tvg-logo="https://live.fanmingming.com/radio/北京文艺广播.png",北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
@@ -111,23 +111,23 @@ http://ls.qingting.fm/live/339.m3u8
 #EXTINF:-1,group-title="北京"tvg-logo="https://live.fanmingming.com/radio/北京城市广播.png",北京城市广播
 http://ls.qingting.fm/live/345.m3u8
 
-#EXTINF:-1 group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E6%B1%9F%E8%8B%8F%E7%BB%8F%E5%85%B8%E6%B5%81%E8%A1%8C%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",江苏经典流行音乐广播
+#EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/江苏经典流行音乐广播.png",江苏经典流行音乐广播
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波新闻综合广播.png" ,宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/宁波音乐广播.png",宁波音乐广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
-#EXTINF:-1 group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%AE%81%E6%B3%A2%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png",宁波动感FM105.2
+#EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/宁波老少广播.png",宁波动感FM105.2
 http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",寧波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="地方" radio="true",上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1,group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%8E%A6%E9%97%A8%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",厦门音乐广播
+#EXTINF:-1,group-title="地方"tvg-logo="https://live.fanmingming.com/radio/厦门音乐广播.png",厦门音乐广播
 http://ls.qingting.fm/live/1739.m3u8
 #EXTINF:-1 group-title="地方",上海动感101
 http://ls.qingting.fm/live/274.m3u8
-#EXTINF:-1,group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E6%B7%B1%E5%9C%B3%E9%A3%9E%E6%89%AC971.png",深圳飞扬音乐台
+#EXTINF:-1,group-title="地方"tvg-logo="https://live.fanmingming.com/radio/深圳飞扬971.png",深圳飞扬音乐台
 http://ls.qingting.fm/live/1271.m3u8
 
 
@@ -140,18 +140,18 @@ http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
  #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网播",天籁之音-经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
-#EXTINF:-1 group-title="广播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音-国风
+#EXTINF:-1 group-title="网播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音-国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
 #EXTINF:-1 group-title="网播",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
 #EXTINF:-1 group-title="网播",老歌音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
 #EXTINF:-1 group-title="网播",国际流行音乐广播
-#EXTINF:-1 group-title="地方",潮流音乐台
+#EXTINF:-1 group-title="网播",潮流音乐台
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 group-title="地方",动感音乐台
+#EXTINF:-1 group-title="网播",动感音乐台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 group-title="地方",格莱美音乐台
+#EXTINF:-1 group-title="网播",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
 
