@@ -129,9 +129,10 @@ https://live.v1.mk/aishang/chcdzdy
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他TV💎",CHC高清电影
 https://live.v1.mk/aishang/chcgqdy
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV💎",CHC家庭影院
-https://live.v1.mk/aishang/chcjtyy;http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 #EXTINF:-1, group-title="其他TV💎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png", 黑莓电影
 http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
+#https://live.v1.mk/aishang/chcjtyy;
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202110/28/121130dmqklykr0l71t0r5.png", 北京IPTV
@@ -143,7 +144,8 @@ http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 #EXTINF:-1, group-title="4K频道📀" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8,https://live.v1.mk/aishang/as4k
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#https://live.v1.mk/aishang/as4k
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="4K频道📀",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
