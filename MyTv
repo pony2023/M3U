@@ -148,7 +148,7 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 #https://live.v1.mk/aishang/chcjtyy;
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1, group-title="4K频道📀"tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202110/28/121130dmqklykr0l71t0r5.png", 北京IPTV
+#EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8C%97%E4%BA%ACIPTV%20.png", 北京IPTV
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
