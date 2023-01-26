@@ -44,9 +44,8 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="台湾",BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1 group-title="广播",台北广播电台FM93.1
+#EXTINF:-1 group-title="台湾",台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia927.png" group-title="台湾",AsiaFM亚洲电台
 http://stream.rcs.revma.com/xpgtqc74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia923.png" group-title="台湾",AsiaFM亚太电台
@@ -99,7 +98,7 @@ https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
 
 
 
-#EXTINF:-1,group-title="北京"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/radio/%E5%8C%97%E4%BA%AC%E7%BB%8F%E5%85%B8969.png",北京经典调频
+#EXTINF:-1,group-title="北京"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%8C%97%E4%BA%AC%E7%BB%8F%E5%85%B8969.png",北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1,group-title="北京" tvg-logo="https://live.fanmingming.com/radio/北京文艺广播.png",北京文艺广播
 http://ls.qingting.fm/live/333.m3u8
@@ -124,11 +123,11 @@ http://ls.qingting.fm/live/3047946.m3u8
 http://ls.qingting.fm/live/1140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="地方" radio="true",上海长三角之声
 https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-#EXTINF:-1 group-title="地方",厦门音乐广播
+#EXTINF:-1,group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E5%8E%A6%E9%97%A8%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",厦门音乐广播
 http://ls.qingting.fm/live/1739.m3u8
 #EXTINF:-1 group-title="地方",上海动感101
 http://ls.qingting.fm/live/274.m3u8
-#EXTINF:-1 group-title="地方",深圳飞扬音乐台
+#EXTINF:-1,group-title="地方"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/%E6%B7%B1%E5%9C%B3%E9%A3%9E%E6%89%AC971.png",深圳飞扬音乐台
 http://ls.qingting.fm/live/1271.m3u8
 
 
