@@ -260,7 +260,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="Global🌎"tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/2022/01/22/4fc70efe-a2d7-4eb3-8f23-05db514ef3bb/news-slate-stream.jpg",CBS News
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvfRrbUp4wDFfWnVkYB_detI18zSCVgt8tQ&usqp=CAU",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="http://www.cnr.cn/hygb/2010huayu/getaijian/20100917/W020100917407923922827.jpg",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
