@@ -51,7 +51,16 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="CCTV",CCTV第一剧场
 http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
-
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV世界地理" group-title="CCTV",CCTV世界地理
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540
+#EXTINF:-1 group-title="CCTV"tvg-logo="https://github.com/fanmingming/live/blob/main/radio/cgtn.png",CGTN
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 group-title="CCTV"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN 纪录
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/CNC.png",CNC
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:-1 group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/CNC.png",CNC中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
 
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
@@ -127,14 +136,14 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1, group-title="其他TV💎" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" ,BTV科教
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他TV💎",金鹰纪实 
-https://live.v1.mk/aishang/jyjs
+#@https://live.v1.mk/aishang/jyjs
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="其他TV💎",求索记录
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E6%96%87%E8%89%BA.png" group-title="其他TV💎",BTV文艺
 https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1, group-title="其他TV💎"tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg", 4K影视
 http://159.75.85.63:5828/4kys.php
-#EXTINF:-1, group-title="其他TV💎"tvg-logo="https://raw.githubusercontent.com/youshandefeiyang/IPTV/master/logo/4kcgq.png", 4K超高清影视
+#EXTINF:-1, group-title="其他TV💎"tvg-logo="https://raw.githubusercontent.com/youshandefeiyang/IPTV/master/logo/4kcgq.png", 4K超高清电影
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他TV💎",CHC高清电影
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
@@ -164,7 +173,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="4K频道📀"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #@https://live.v1.mk/aishang/as4k
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/438EE5CB-0885-429B-9995-4CDC5C98C158.png" group-title="4K频道📀",Fashion4K
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道📀",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K频道📀"tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/M87kbVk.png",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
@@ -192,10 +201,14 @@ https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, group-title="Global🌎" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8D%8A%E5%B2%9B%E6%96%B0%E9%97%BB.png", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="Global🌎"  tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg",NHK华语视界
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:-1 group-title="日本",NHK World Japan
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvfRrbUp4wDFfWnVkYB_detI18zSCVgt8tQ&usqp=CAU",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="http://www.cnr.cn/hygb/2010huayu/getaijian/20100917/W020100917407923922827.jpg",俄罗斯中文
@@ -212,7 +225,7 @@ https://git.io/JgkAb
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
 https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://cc.tvbs.com.tw/img/upload/2021/03/03/20210303100057-83c4f845.png", TVBS新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png", TVBS新闻台
 https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
 https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
