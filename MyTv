@@ -244,7 +244,7 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/bc.png", Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1, group-title="Global🌎"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1280px-Global_News.svg.png", Global News
+#EXTINF:-1, group-title="Global🌎"tvg-logo="https://studios.sculptraits3d.com/wp-content/uploads/2015/12/Global_News_logo.png", Global News
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
