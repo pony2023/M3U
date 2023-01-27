@@ -238,11 +238,11 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰",澳门莲花
 #@https://www.nettvpro.live/hls/lotustv.php
 
-#EXTINF:-1 group-title="Global🌎"tvg-logo="https://media.info/i/lf/300/1646705092/7542.png",NBC News Now
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNBC.png",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1, group-title="Global🌎"tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/dark/bc.png", Global BC
+#EXTINF:-1, group-title="Global🌎"tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/bc.png", Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1280px-Global_News.svg.png", Global News
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
@@ -253,7 +253,7 @@ https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png",ArirangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1, group-title="Global🌎" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8D%8A%E5%B2%9B%E6%96%B0%E9%97%BB.png", 半岛新闻
+#EXTINF:-1, group-title="Global🌎" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
