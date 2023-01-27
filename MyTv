@@ -239,7 +239,7 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #@https://www.nettvpro.live/hls/lotustv.php
 
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNBC.png",NBC News Now
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/bc.png", Global BC
