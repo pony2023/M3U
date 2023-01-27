@@ -219,7 +219,7 @@ https://git.io/JgYAE
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png", TVBS新闻台
-https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
 https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/Hong_Kong_Cable_TV_logo.svg/1200px-Hong_Kong_Cable_TV_logo.svg.png",有线新闻台
@@ -228,7 +228,6 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://iptv.cooltv.top/logo/lotus.png",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰",澳门莲花
