@@ -5,7 +5,7 @@ http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
-#http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #@http://159.75.85.63:5679/cctv4k.php
 #@https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
