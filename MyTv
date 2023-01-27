@@ -205,9 +205,9 @@ https://git.io/Jgkpy
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
 https://git.io/JgkxY
 #https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png", 中视新闻
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
 https://git.io/Jgkxz
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png", 三立新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png",三立新闻台
 https://git.io/Jgkxj
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻
 https://git.io/JgkpO
@@ -215,7 +215,7 @@ https://git.io/JgkpO
 https://git.io/JgYYF
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://24hrkpop.com/wp-content/uploads/2020/04/KPOP-Logo-Alpha.png", KPOP
 https://git.io/JgYAE
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png", 香港开电视
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png", TVBS新闻台
