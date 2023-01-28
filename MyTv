@@ -1,10 +1,22 @@
 #EXTM3U
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+#@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+#@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
+http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/wuxingtiyu.png", 上海五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1, group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",上海第一财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
@@ -38,6 +50,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png", CCTV13
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
+#@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png", CCTV14
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png", CCTV15
@@ -157,12 +170,15 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 #EXTINF:-1 group-title="其他TV🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="其他TV🎬"tvg-logo="https://img2.baidu.com/it/u=534799463,4125744909&fm=253&fmt=auto&app=138&f=PNG?w=499&h=499",广州南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" group-title="其他TV🎬",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 #EXTINF:-1, group-title="其他TV🎬", tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" ,BTV科教
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
+#@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 #@http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他TV🎬",金鹰纪实 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
