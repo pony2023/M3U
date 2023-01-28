@@ -111,17 +111,6 @@ https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽故事广播.png" group-title="安徽" radio="true",安徽故事广播
 https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥新闻广播.png" group-title="合肥" radio="true",合肥新闻广播
-http://iptv.cooltv.top/tv/hftv.php?id=xwgb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥交通广播.png" group-title="合肥" radio="true",合肥交通广播
-http://iptv.cooltv.top/tv/hftv.php?id=jtgb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥故事广播.png" group-title="合肥" radio="true",合肥故事广播
-http://iptv.cooltv.top/tv/hftv.php?id=gsgb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥巢湖之声.png" group-title="合肥" radio="true",合肥巢湖之声
-http://iptv.cooltv.top/tv/hftv.php?id=chzs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥文艺广播.png" group-title="合肥" radio="true",合肥文艺广播
-http://117.91.183.178/s1.hfbtv.com/hfbtv/qcyypl/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥新闻广播.png" group-title="合肥" radio="true",
 
 
 
@@ -194,10 +183,10 @@ http://asiafm.net:8000/asiafmyyt
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhzx.png" group-title="电视",凤凰资讯伴音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhzx.png" group-title="电视",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhzw.png" group-title="电视",凤凰中文伴音
-http://iptv.cooltv.top/tv/fhxaudio.php?id=fhzw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhzw.png" group-title="电视",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视",CCTV-1
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视",CCTV-2
@@ -220,8 +209,6 @@ http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="电视",东方卫视
 http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/zhejiangweishi.png" group-title="电视",浙江卫视
-http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shenzhenweishi.png" group-title="电视",深圳卫视
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
