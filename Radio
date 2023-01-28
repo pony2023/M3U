@@ -55,6 +55,8 @@ http://stream.rcs.revma.com/xpgtqc74hv8uv
 http://stream.rcs.revma.com/kydend74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/flyfm.png" group-title="台湾",FlyRadio飞扬调频
 http://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/pulsefm.png" group-title="境外广播",PulseFM心动音乐电台
+http://iptv.cooltv.top/tv/pulsefm.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="台湾",飞碟电台
 http://n08.rcs.revma.com/em90w4aeewzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="台湾" radio="true",News98新闻台
@@ -70,6 +72,12 @@ http://59.120.88.155:8000/live.mp3
 http://fm929.cityfm.tw:8080/929.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/国立教育电台.png" group-title="台湾" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/kwongwah.png" group-title="台湾",光华之声
+http://iptv.cooltv.top/tv/kwongwah.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhbs.png" group-title="台湾",复兴电台
+http://iptv.cooltv.top/tv/fhbs.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/uni967.png" group-title="台湾",环宇广播
+http://stream.rcs.revma.com/srn5f9kmwxhvv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/988.png" group-title="新马" radio="true",988友声有色
 http://23023.live.streamtheworld.com/988_FMAAC.aac
@@ -196,10 +204,26 @@ https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png" group-title="电视",CCTV-4 
 https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv5.png" group-title="电视",CCTV-5
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv9.png" group-title="电视",CCTV-9
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv10.png" group-title="电视",CCTV-10
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv12.png" group-title="电视",CCTV-12
 https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv13.png" group-title="电视",CCTV-13
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="电视",安徽卫视
+http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/hunanweishi.png" group-title="电视",湖南卫视
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="电视",东方卫视
+http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/zhejiangweishi.png" group-title="电视",浙江卫视
+http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/shenzhenweishi.png" group-title="电视",深圳卫视
+http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
 #EXTINF:-1,group-title="境外" tvg-logo="https://static.wixstatic.com/media/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg/v1/fill/w_155,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg",美国中文电台
 http://radiokest.serverroom.us:6670/;stream.mp3
@@ -207,6 +231,10 @@ http://radiokest.serverroom.us:6670/;stream.mp3
 https://utulsa.streamguys1.com/KWGSHD3-MP3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title=" group-title="境外" radio="true",MSNBC Radio
 http://peridot.streamguys.com:7850/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外",CNA 938
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外",VOA Global English
+http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png"境外" radio="true",VOA
 http://stream.radiojar.com/7thwu53r92quv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/rfa.png"境外" radio="true",RFA
