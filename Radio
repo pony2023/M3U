@@ -157,7 +157,7 @@ http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
 #EXTINF:-1 group-title="网播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音-国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-#EXTINF:-1 group-title="网播"tvg-logo="https://https://www.55dianping.com/uploads/allimg/2212/1-221226094P0342.jpg",华语金曲500首
+#EXTINF:-1 group-title="网播"tvg-logo="https://play-lh.googleusercontent.com/N05jb5zb7Io_XZ4ye9CcPAubdxFuODMROA2qQC7QGgjQUR1_b5ar8y8rSt59eX0cwIE=s200",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8
 #EXTINF:-1 group-title="网播"tvg-logo="https://live.fanmingming.com/radio/山东经典音乐广播.png",老歌音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
@@ -165,7 +165,7 @@ http://live.xmcdn.com:80/live/2628/64.m3u8
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 group-title="网播"tvg-logo="https://live.fanmingming.com/radio/melody.png",动感音乐台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 group-title="网播"tvg-logo="https://live.fanmingming.com/radio/四川岷江音乐.png",格莱美音乐台
+#EXTINF:-1 group-title="网播"tvg-logo="https://p1.itc.cn/q_70/images03/20211126/485de53ca8c742b1a41ca223bf71dc58.png",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/亚洲热歌台.png" group-title="网播",AsiaFM 亚洲热歌台
