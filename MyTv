@@ -143,13 +143,14 @@ http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
+
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8C%97%E4%BA%ACIPTV%20.png", 北京IPTV
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
+#EXTINF:-1, tvg-name="欢笑剧场" group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 #@https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
@@ -157,22 +158,22 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #@https://live.v1.mk/aishang/as4k
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
+#EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K频道🌈"tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/M87kbVk.png",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/Nature.png", 4K影视,Love Nrture 4K
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/Nature.png", 4K影视,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K频道🌈"tvg-logo="https://www.lyngsat-stream.com/logo/tv/zz/zz-4000-rs.png",MUZZIK ZZ4000 4K
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://www.lyngsat-stream.com/logo/tv/zz/zz-4000-rs.png",MUZZIK ZZ4000 4K
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-#EXTINF:-1 group-title="4K频道🌈"tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png",Loupe 4K
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-#EXTINF:-1 group-title="其他TV🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
+#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 group-title="其他TV🎬"tvg-logo="https://img2.baidu.com/it/u=534799463,4125744909&fm=253&fmt=auto&app=138&f=PNG?w=499&h=499",广州南国都市
+#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://img2.baidu.com/it/u=534799463,4125744909&fm=253&fmt=auto&app=138&f=PNG?w=499&h=499",广州南国都市
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" group-title="其他TV🎬",新视觉
+#EXTINF:-1, tvg-id="1963" tvg-name="新视觉" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" group-title="其他TV🎬",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 #EXTINF:-1, group-title="其他TV🎬", tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
@@ -203,7 +204,7 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV🎬",CHC家庭影院
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV🎬",CHC家庭影院
+#EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV🎬",CHC家庭影院
 #@http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他TV🎬",SITV都市剧场
 http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
@@ -233,14 +234,13 @@ https://git.io/JgkpO
 https://git.io/JgYYF
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://24hrkpop.com/wp-content/uploads/2020/04/KPOP-Logo-Alpha.png", KPOP
 https://git.io/JgYAE
-
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png", TVBS新闻台
 #https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
 https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/Hong_Kong_Cable_TV_logo.svg/1200px-Hong_Kong_Cable_TV_logo.svg.png",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.wixstatic.com/media/247b98_4e54b293226243788f82a00cd69aedae~mv2.png/v1/fill/w_266,h_127,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Hoy%20Logo.png", HOY TV
+#EXTINF:-1, tvg-name="香港开电视" group-title="港澳台🇭🇰"tvg-logo="https://static.wixstatic.com/media/247b98_4e54b293226243788f82a00cd69aedae~mv2.png/v1/fill/w_266,h_127,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Hoy%20Logo.png", HOY TV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
@@ -255,23 +255,27 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #@https://p.ggiptv.com/v/macaulotustv.php
 #EXTINF:-1 group-title="港澳台🇭🇰",澳门莲花
 #@https://www.nettvpro.live/hls/lotustv.php
+#EXTINF:-1,tvg-name="东森幼幼台" group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png",东森幼儿,
+https://git.io/JgYON
 
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNBC.png",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://www.clipartmax.com/png/middle/209-2091446_appearances-on-abc-news-logo-png.png",ABC News
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/bc.png", Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://studios.sculptraits3d.com/wp-content/uploads/2015/12/Global_News_logo.png", Global News
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
+#EXTINF:-1,tvg-name="ChannelNewsAsia" group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 #@http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/FOX.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png",ArirangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1, group-title="Global🌎" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png", 半岛新闻
+#EXTINF:-1, tvg-name="aljazeera" group-title="Global🌎" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png", 半岛新闻
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
