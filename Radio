@@ -55,7 +55,7 @@ http://stream.rcs.revma.com/xpgtqc74hv8uv
 http://stream.rcs.revma.com/kydend74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/flyfm.png" group-title="台湾",FlyRadio飞扬调频
 http://stream.rcs.revma.com/e0tdah74hv8uv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/pulsefm.png" group-title="境外广播",PulseFM心动音乐电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/pulsefm.png" group-title="台湾",PulseFM心动音乐电台
 http://iptv.cooltv.top/tv/pulsefm.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="台湾",飞碟电台
 http://n08.rcs.revma.com/em90w4aeewzuv
@@ -93,7 +93,7 @@ https://22393.live.streamtheworld.com/YES933_PREM.aac
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="新马" radio="true",UFM 1003
 https://22283.live.streamtheworld.com/UFM_1003AAC.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/melody.png"新马" radio="true",Melody
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/melody.png" group-title="新马" radio="true",Melody
 https://astro3.rastream.com/melody
 
 
@@ -229,17 +229,17 @@ http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 http://radiokest.serverroom.us:6670/;stream.mp3
 #EXTINF:-1,group-title="境外" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png",BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title=" group-title="境外" radio="true",MSNBC Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外" radio="true",MSNBC Radio
 http://peridot.streamguys.com:7850/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外",CNA 938
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外",VOA Global English
 http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png"境外" radio="true",VOA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外" radio="true",VOA
 http://stream.radiojar.com/7thwu53r92quv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/rfa.png"境外" radio="true",RFA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/rfa.png" group-title="境外" radio="true",RFA
 https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png"境外" radio="true",RFI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外"radio="true",RFI
 http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
 
 
