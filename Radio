@@ -44,6 +44,9 @@ http://stream.rcs.revma.com/ks4vsmg3qtzuv
 http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="台湾",BCC中广流行
 http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1,tvg-logo="https://gitee.com/radioer/radioer/raw/main/rti.png" group-title="台湾",RTI中央廣播電臺
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
+
 #EXTINF:-1 group-title="台湾"tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png",台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia927.png" group-title="台湾",AsiaFM亚洲电台
@@ -56,6 +59,9 @@ http://stream.rcs.revma.com/e0tdah74hv8uv
 http://n08.rcs.revma.com/em90w4aeewzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="台湾" radio="true",News98新闻台
 http://stream.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.news98.com.tw/images/logo.png" group-title="台湾" radio="true",台湾九八新闻台
+http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="台湾" radio="true",飞碟电台
 http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台湾古典音乐台.png" group-title="台湾" radio="true",台湾古典音乐台
@@ -79,6 +85,8 @@ https://22393.live.streamtheworld.com/YES933_PREM.aac
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="新马" radio="true",UFM 1003
 https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/melody.png"新马" radio="true",Melody
+https://astro3.rastream.com/melody
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽之声.png" group-title="安徽" radio="true",安徽之声
@@ -95,6 +103,17 @@ https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽故事广播.png" group-title="安徽" radio="true",安徽故事广播
 https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥新闻广播.png" group-title="合肥" radio="true",合肥新闻广播
+http://iptv.cooltv.top/tv/hftv.php?id=xwgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥交通广播.png" group-title="合肥" radio="true",合肥交通广播
+http://iptv.cooltv.top/tv/hftv.php?id=jtgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥故事广播.png" group-title="合肥" radio="true",合肥故事广播
+http://iptv.cooltv.top/tv/hftv.php?id=gsgb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥巢湖之声.png" group-title="合肥" radio="true",合肥巢湖之声
+http://iptv.cooltv.top/tv/hftv.php?id=chzs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥文艺广播.png" group-title="合肥" radio="true",合肥文艺广播
+http://117.91.183.178/s1.hfbtv.com/hfbtv/qcyypl/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/合肥新闻广播.png" group-title="合肥" radio="true",
 
 
 
@@ -166,9 +185,34 @@ http://asiafm.hk:8000/asiahd
 http://asiafm.net:8000/asiafmyyt
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhzx.png" group-title="电视",凤凰资讯伴音
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/fhzw.png" group-title="电视",凤凰中文伴音
+http://iptv.cooltv.top/tv/fhxaudio.php?id=fhzw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv1.png" group-title="电视",CCTV-1
+https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv2.png" group-title="电视",CCTV-2
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png" group-title="电视",CCTV-4 
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv12.png" group-title="电视",CCTV-12
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv13.png" group-title="电视",CCTV-13
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+
+#EXTINF:-1,group-title="境外" tvg-logo="https://static.wixstatic.com/media/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg/v1/fill/w_155,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg",美国中文电台
+http://radiokest.serverroom.us:6670/;stream.mp3
 #EXTINF:-1,group-title="境外" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png",BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外" radio="true",MSNBC Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title=" group-title="境外" radio="true",MSNBC Radio
 http://peridot.streamguys.com:7850/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png"境外" radio="true",VOA
+http://stream.radiojar.com/7thwu53r92quv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/rfa.png"境外" radio="true",RFA
+https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png"境外" radio="true",RFI
+http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+
 
 
