@@ -242,7 +242,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://iptv.cooltv.top/logo/lotus.png",澳门莲花
+#EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_c200x200/p634dfef45f38e.png",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰",澳门莲花
 #@http://nettvpro.live/hls/lotustv.php
