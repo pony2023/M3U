@@ -126,21 +126,21 @@ http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 
 
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://bkimg.cdn.bcebos.com/pic/b7fd5266d016092405d6b642db0735fae7cd34f3?x-bce-process=image/resize,m_lfit,w_536,limit_1", 安徽经济生活
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahjjsh.jpg", 安徽经济生活
 http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽影视
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/anhys.jpg", 安徽影视
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽农业科教
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahkj.jpg", 安徽农业科教
 http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽综艺体育
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg", 安徽综艺体育
 http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽公共
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg", 安徽公共
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 睛彩安徽
 http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚健康
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://www.ahntv.cn/assets/images/logo1.jpg", 海豚健康
 http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚影视
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://www.ahntv.cn/assets/images/logo-dark.png", 海豚影视
 http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
