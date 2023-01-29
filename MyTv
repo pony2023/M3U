@@ -167,7 +167,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://img2.baidu.com/it/u=534799463,4125744909&fm=253&fmt=auto&app=138&f=PNG?w=499&h=499",广州南国都市
@@ -259,6 +258,9 @@ https://git.io/JgYON
 
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNBC.png",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://www.clipartmax.com/png/middle/209-2091446_appearances-on-abc-news-logo-png.png",ABC News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
