@@ -260,7 +260,7 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 #EXTINF:-1 group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
-#EXTINF:-1 group-title="Global🌎"tvg-logo="https://www.clipartmax.com/png/middle/209-2091446_appearances-on-abc-news-logo-png.png",ABC News
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://deadline.com/wp-content/uploads/2020/06/abc-news.jpg",ABC News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
