@@ -88,7 +88,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-108
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
-#EXTINF:-1, group-title="省级卫视" tvg-logo="https://www.brtn.cn/static/img/v5/column/btvws_index_active.png?v=2", 北京卫视
+#EXTINF:-1, group-title="省级卫视" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458xkkybr3uu30403kd.png", 北京卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
 #EXTINF:-1, group-title="省级卫视"tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
@@ -178,6 +178,8 @@ http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 #@http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458rlwwv193vqbo44km.png"其他TV🎬",BTV文艺
+https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他TV🎬",金鹰纪实 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="其他TV🎬",求索记录
@@ -189,8 +191,6 @@ http://39.135.7.132:6610/000000001000/6000000002000010046/1.m3u8?Contentid=60000
 http://39.135.7.132:6610/000000001000/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/qssh.png" group-title="其他TV🎬",求索生活
 http://39.135.7.132:6610/000000001000/6000000002000003382/1.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/BTV%E6%96%87%E8%89%BA.png" group-title="其他TV🎬",BTV文艺
-https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg", 4K影视
 http://159.75.85.63:5828/4kys.php
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/youshandefeiyang/IPTV/master/logo/4kcgq.png", 4K超高清电影
@@ -242,7 +242,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_c200x200/p634dfef45f38e.png",澳门莲花
+#EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://iptv.cooltv.top/logo/lotus.png",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰",澳门莲花
 #@http://nettvpro.live/hls/lotustv.php
