@@ -140,9 +140,9 @@ http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://www.ahntv.cn/assets/images/logo1.jpg", 海豚健康
 http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://www.ahntv.cn/assets/images/logo-dark.png", 海豚影视
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://www.ahntv.cn/assets/images/logo.png", 海豚影视
 http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
-#EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://www.ahntv.cn/assets/images/logo.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8C%97%E4%BA%ACIPTV%20.png", 北京IPTV
