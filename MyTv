@@ -237,7 +237,7 @@ https://git.io/JgYAE
 https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/Hong_Kong_Cable_TV_logo.svg/1200px-Hong_Kong_Cable_TV_logo.svg.png",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1, tvg-name="香港开电视" group-title="港澳台🇭🇰"tvg-logo="https://static.wixstatic.com/media/247b98_4e54b293226243788f82a00cd69aedae~mv2.png/v1/fill/w_266,h_127,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Hoy%20Logo.png", HOY TV
+#EXTINF:-1, tvg-name="香港开电视" group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/Hoy.png", HOY TV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
