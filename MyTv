@@ -22,7 +22,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #@http://159.75.85.63:5679/cctv4k.php
 #@https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1, tvg-id="1" group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
+http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", CCTV2
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
@@ -143,9 +145,6 @@ http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://live.fanmingming.com/tv/anhui.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
-
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8C%97%E4%BA%ACIPTV%20.png", 北京IPTV
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
@@ -177,7 +176,7 @@ http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 #EXTINF:-1, group-title="其他TV🎬", tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://www.right.com.cn/FORUM/data/attachment/forum/202209/22/113751jre6yrieb2fzz8ff.png" ,BTV科教
+#EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://www.right.com.cn/FORUM/data/attachment/forum/202209/22/141635nxpr2pelhvdrp1vr.png" ,BTV科教
 https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000
 #@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 #@http://117.169.121.162:6610/PLTV/88888910/224/3221225676/index.m3u8
