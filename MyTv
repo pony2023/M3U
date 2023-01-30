@@ -13,10 +13,19 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",上海五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1, tvg-name="上海五星体育" group-title="其他TV🎬" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",上海五星体育标清
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+#@http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育
 http://r.jdshipin.com/LiYdg
+#EXTINF:-1, tvg-name="广东体育" group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育标清
+https://tytctv.gdtv.cn/live/gdty.m3u8?auth_key=1675092943-0-0-b0d918125c25bad76782b8e622d97fca
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png",BTV体育
 http://hls.dszbdq.cn/d/btime.php?id=dajs
+#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="台湾",纬来体育HD
+http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",第一财经
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 
