@@ -212,8 +212,7 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
 https://git.io/JgkAb
 #https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
@@ -229,6 +228,8 @@ https://git.io/Jgkxz
 https://git.io/Jgkxj
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻
 https://git.io/JgkpO
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png", 幸福空间居家台
 https://git.io/JgYYF
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://24hrkpop.com/wp-content/uploads/2020/04/KPOP-Logo-Alpha.png", KPOP
