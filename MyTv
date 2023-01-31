@@ -20,20 +20,13 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.
 #EXTINF:-1, group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育🏀",劲爆体育
-http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#@http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,group-title="体育🏀" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png",BTV体育
 http://hls.dszbdq.cn/d/btime.php?id=dajs
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png"group-title="体育🏀",纬来体育HD
 http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA League Pass",NBA TV
-http://194.40.240.183:25461/3397537295/4538699784/55195
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="NBA League Pass",ABC
-http://194.40.240.183:25461/3397537295/4538699784/54062
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/140-1402483_logo-espn-2-png-transparent-png.png" group-title="NBA League Pass",ESPN
-http://194.40.240.183:25461/3397537295/4538699784/53403
-#EXTINF:-1 tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG.png" group-title="NBA League Pass",TNT
-http://194.40.240.183:25461/3397537295/4538699784/53315
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png" group-title="NBA League Pass",NBA Golden State Warriors
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png" group-title="体育🏀",NBA Golden State Warriors
 http://194.40.240.183:25461/3397537295/4538699784/55171
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
@@ -207,7 +200,7 @@ https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458rlwwv193vqbo44km.png"group-title="其他TV🎬",BTV文艺
 https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他TV🎬",金鹰纪实 
-https://live.v1.mk/aishang/jyjs
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他TV🎬",中国教育 
 https://live.v1.mk/aishang/cetv1hd
 #http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
@@ -243,37 +236,36 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
 
-
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live
-http://158.101.151.82:9000/jmsytb.m3u8?c=02
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png", 中天新闻台
-http://158.101.151.82:9000/jmsytb.m3u8?c=05
-#@https://git.io/Jgkpy
+https://git.io/Jgkpy
+#@http://158.101.151.82:9000/jmsytb.m3u8?c=05
 #@https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
-http://158.101.151.82:9000/jmsytb.m3u8?c=07
-#@https://git.io/JgkxY
+https://git.io/JgkxY
+#@http://158.101.151.82:9000/jmsytb.m3u8?c=07
 #@https://hls.youtb.workers.dev/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立新闻台
-http://158.101.151.82:9000/jmsytb.m3u8?c=16
-#@https://git.io/Jgkxj
+https://git.io/Jgkxj
+#@http://158.101.151.82:9000/jmsytb.m3u8?c=16
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻
-http://158.101.151.82:9000/jmsytb.m3u8?c=14
-#@https://git.io/JgkpO
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBSHD
-http://158.101.151.82:9000/jmsytb.m3u8?c=04
+https://git.io/JgkpO
+#@http://158.101.151.82:9000/jmsytb.m3u8?c=14
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
-http://158.101.151.82:9000/jmsytb.m3u8?c=03
-#@http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#@http://158.101.151.82:9000/jmsytb.m3u8?c=03
+#@https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
-http://158.101.151.82:9000/jmsytb.m3u8?c=19
-#@https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+https://hls.youtb.workers.dev/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#@http://158.101.151.82:9000/jmsytb.m3u8?c=19
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
 https://git.io/JgkAb
 #https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
 https://git.io/Jgkxz
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live
+http://158.101.151.82:9000/jmsytb.m3u8?c=02
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBSHD
+http://158.101.151.82:9000/jmsytb.m3u8?c=04
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png", 幸福空间居家台
 https://git.io/JgYYF
@@ -303,12 +295,8 @@ https://git.io/JgYON
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="Global🌎"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2kMy-GEFwdWrQ5mC6mqOIGkrx-v9FX3zVpw&usqp=CAU",ABC News
-http://158.101.151.82:9000/jmsytb.m3u8?c=21
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/ABC.png",ABC News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
-#EXTINF:-1 group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",SKY news
-http://158.101.151.82:9000/jmsytb.m3u8?c=29
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/_img/logos/bc.png", Global BC
