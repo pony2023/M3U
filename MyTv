@@ -26,8 +26,6 @@ https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 http://hls.dszbdq.cn/d/btime.php?id=dajs
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png"group-title="体育🏀",纬来体育HD
 http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png" group-title="体育🏀",NBA Golden State Warriors
-http://194.40.240.183:25461/3397537295/4538699784/55171
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
@@ -201,8 +199,6 @@ https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
 https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他TV🎬",金鹰纪实 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他TV🎬",中国教育 
-https://live.v1.mk/aishang/cetv1hd
 #http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="其他TV🎬",求索记录
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
@@ -218,14 +214,14 @@ http://159.75.85.63:5828/4kys.php
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/youshandefeiyang/IPTV/master/logo/4kcgq.png", 4K超高清电影
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他TV🎬",CHC高清电影
-https://live.v1.mk/aishang/chcgqdy
-#@http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+#@https://live.v1.mk/aishang/chcgqdy
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他TV🎬",CHC动作电影
-https://live.v1.mk/aishang/chcdzdy
-#@http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+#@https://live.v1.mk/aishang/chcdzdy
 #EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV🎬",CHC家庭电影
-https://live.v1.mk/aishang/chcjtyy
-#@http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+#@https://live.v1.mk/aishang/chcjtyy
 #@http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他TV🎬",SITV都市剧场
 http://baidu.live.cqccn.com/__cl/cg:live/__c/dsjcHD/__op/default/__f//index.m3u8
