@@ -18,8 +18,6 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.
 #@http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1, group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1, tvg-name="广东体育" group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广体标清
-https://tytctv.gdtv.cn/live/gdty.m3u8?auth_key=1675092943-0-0-b0d918125c25bad76782b8e622d97fca
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育🏀",劲爆体育
 http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,group-title="体育🏀" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png",BTV体育
