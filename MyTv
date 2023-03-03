@@ -25,6 +25,7 @@ http://159.75.85.63:5679/cctv4k.php
 #@https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 https://live.v1.mk/aishang/cctv164k
+#@http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?blog.ntnas.top
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", CCTV2
@@ -204,6 +205,8 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="",金马影院
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?blog.ntnas.top
 
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻#
