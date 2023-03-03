@@ -15,12 +15,10 @@ http://r.jdshipin.com/ZQ4kN
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 
 #@http://61.156.196.215/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1, tvg-name="上海五星体育" group-title="体育🏀" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",五星体育标清
+#EXTINF:-1, tvg-name="上海五星体育" group-title="其他TV🎬" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",五星体育标清#
 
 #EXTINF:-1, group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育#
-
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育🏀",劲爆体育#
-
 #EXTINF:-1, tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png"group-title="体育🏀",BTV体育#
 
 
@@ -32,7 +30,7 @@ https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 http://159.75.85.63:5679/cctv4k.php
 #@https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-
+https://live.v1.mk/aishang/cctv164k
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png", CCTV2
@@ -202,11 +200,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg", 4K影视#
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/youshandefeiyang/IPTV/master/logo/4kcgq.png", 4K超高清电影#
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他TV🎬",CHC高清电影
-https://live.v1.mk/aishang/chcgqdy
+http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他TV🎬",CHC动作电影
-https://live.v1.mk/aishang/chcdzdy
-#EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV🎬",CHC家庭电影
-https://live.v1.mk/aishang/chcjtyy
+http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+#EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他TV🎬",CHC家庭影院
+http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 #@http://bytedance.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他TV🎬",SITV都市剧场#
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/heimei.png", 黑莓电影
@@ -214,20 +212,23 @@ http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 #@https://live.v1.mk/aishang/chcjtyy;
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-
+#EXTINF:-1, group-title="其他TV🎬" tvg-logo="",金马影院
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png",民视综艺台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png", 中天新闻台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台#
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立新闻台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台#
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBSHD#
