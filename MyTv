@@ -20,7 +20,7 @@ https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他TV🎬",法治天地 8M
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="" group-title="其他TV🎬",法治天地 8M
 https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
