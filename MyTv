@@ -13,10 +13,11 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1, group-title="体育🏀" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",上海五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1, group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育#
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育🏀",劲爆体育#
+#EXTINF:-1, group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育
+http://fxhack.f3322.org:8000/udp/239.77.0.112:5146?世界杯WorldCup
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育🏀",劲爆体育
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1, tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png"group-title="体育🏀",BTV体育#
+#EXTINF:-1, tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png"group-title="体育🏀",BTV体育
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",第一财经
 https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
