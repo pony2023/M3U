@@ -250,8 +250,7 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://studios.sculptraits3d.com/wp-content/uploads/2015/12/Global_News_logo.png", Global News
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1,tvg-name="ChannelNewsAsia" group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
-https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
-#@http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/FOX.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png",ArirangTV
@@ -260,8 +259,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="Global🌎"  tvg-logo="http://www.tvyan.com/uploads/dianshi/nhkhuayu.jpg",NHK华语视界
-https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本",NHK World Japan
@@ -275,35 +272,7 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",全球大片
-https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
-#@http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",华语影院
-https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",星光影院
-https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",谍战剧场
-https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",热门剧场
-https://live.v1.mk/api/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",看天下精选
-https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",热门综艺
-https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",健康养生
-https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",宝宝动画
-https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pic.pdowncc.com/upload/2015-11/20151112151047.png" group-title="BesTV📍",百变课堂
-https://live.v1.mk/api/bestv.php?id=bbkt8m/8000000
 
-
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg", newtv精品综合
-http://111.40.196.9/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://github.com/fanmingming/live/blob/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/NEWTV%E7%B2%BE%E5%93%81%E7%BA%AA%E5%BD%95.png?raw=true",newtv精品纪录
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png",newtv金牌综艺
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",newtv超级综艺
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
 #EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",newtv超级体育
@@ -312,20 +281,6 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 #EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png",newtv超级电视剧
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png",newtv精品大剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png",newtv古装剧场
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",newtv家庭剧场
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/%E6%98%8E%E6%98%9F%E5%A4%A7%E7%89%87.png",newtv明星大片
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/NEWTV%E6%AC%A2%E4%B9%90%E5%89%A7%E5%9C%BA.png",newtv欢乐剧场
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/NEWTV%E6%B5%B7%E5%A4%96%E5%89%A7%E5%9C%BA.png",newtv海外剧场
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1, group-title="NewTV📺️"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/NEWTV%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png",newtv东北热剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 
 
 #EXTINF:-1, group-title="4K🌈" , BTV纪实科教8K
