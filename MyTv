@@ -1,27 +1,25 @@
 #EXTM3U
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+http://103.112.191.9:880/LAOSAT1015.m3u8
 #@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+http://103.112.191.9:880/LAOSAT1068.m3u8
 #@http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png",凤凰香港
+https://cntv.sbs/fs?id=fhhk&auth=2307100804
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1, group-title="体育🏀" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",上海五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1, group-title="体育🏀" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png",广东体育
-http://fxhack.f3322.org:8000/udp/239.77.0.112:5146?世界杯WorldCup
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育🏀",劲爆体育
-https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1, tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458hmtzlzzape13t7ma.png"group-title="体育🏀",BTV体育
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://live.fanmingming.com/tv/diyicaijing.png",第一财经
-https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
-#@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="" group-title="其他TV🎬",法治天地 8M
-https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
+https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
@@ -74,9 +72,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1，tvg-name="CGTN" group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/cgtn.png",CGTN
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225747/index.m3u8
+http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,tvg-name="CGTNDocumentary" group-title="CCTV"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN 纪录
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225645/index.m3u8
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 group-title="CCTV"tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png",CNC
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index.m3u8
 #EXTINF:-1 group-title="CCTV"tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/cnc-world-en.png",CNC中文
@@ -166,9 +164,9 @@ https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://img2.baidu.com/it/u=534799463,4125744909&fm=253&fmt=auto&app=138&f=PNG?w=499&h=499",广州南国都市
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 #EXTINF:-1, tvg-id="1963" tvg-name="新视觉" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉" group-title="其他TV🎬",新视觉
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
+https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1, group-title="其他TV🎬", tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
+https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 #@http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1, group-title="其他TV🎬" tvg-logo="https://www.right.com.cn/FORUM/data/attachment/forum/202209/22/141635nxpr2pelhvdrp1vr.png" ,BTV科教
 https://live.v1.mk/api/bestv.php?id=dajs8m/8000000
@@ -231,7 +229,8 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 
-
+#EXTINF:-1,tvg-name="ChannelNewsAsia" group-title="Global??" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNBC.png",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+
