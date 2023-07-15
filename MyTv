@@ -24,10 +24,9 @@ https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
-http://159.75.85.63:5679/cctv4k.php
-#@https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #@http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?blog.ntnas.top
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
@@ -145,17 +144,11 @@ http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://gl0.ahtv.cn/download/images/logo.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E5%8C%97%E4%BA%ACIPTV%20.png", 北京IPTV
-http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, tvg-name="欢笑剧场" group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E7%88%B1%E4%B8%8A4K.png", 爱上4K
-http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#@https://live.v1.mk/aishang/as4k
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K频道🌈"tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/M87kbVk.png",Clarity 4K
