@@ -142,21 +142,68 @@ http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
-#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
+#EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1, group-title="其他TV🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1, group-title="其他TV🎬" tvg-logo="",超级电影
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?blog.ntnas.top
-#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",newtv超级综艺
+#EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",newtv超级综艺
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
-#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",newtv超级体育
+#EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",newtv超级体育
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
-#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png",newtv超级电影
+#EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png",newtv超级电影
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
-#EXTINF:-1, group-title="其他TV🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png",newtv超级电视剧
+#EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png",newtv超级电视剧
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
-
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",黑莓动画
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",古装剧场       
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guzhuangjc/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",动作电影       
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",精品综合
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",金牌综艺
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",黑莓电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",爱情喜剧      
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/aiqingxj/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",惊悚悬疑
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",军事评论
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",军旅剧场
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",热播精选        
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",家庭剧场
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",精品大剧
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",精品纪录
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",精品体育
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",怡伴健康
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",武搏世界
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",农业致富
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",潮妈辣婆
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",金鹰卡通
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",炫动卡通
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",卡酷少儿
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",优漫卡通
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="",山东教育
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视#
