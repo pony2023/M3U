@@ -14,6 +14,7 @@ https://cntv.sbs/live?auth=2307100804&id=wxty
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#@https://cntv.sbs/live?auth=2307100804&id=cctv4k
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
