@@ -218,6 +218,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankat
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
+#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻#
