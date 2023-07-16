@@ -220,21 +220,21 @@ http://39.134.67.226/PLTV/88888888/224/3221225673/index.m3u8
 
 
 
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B9%96%E5%8D%97%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B9%96%E5%8D%97%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png",炫动卡通
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png",炫动卡通
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
+#EXTINF:-1, group-title="少儿卡通☃" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 
 
@@ -243,14 +243,14 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png",民视综艺台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png", 中天新闻台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
+#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立新闻台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBSHD#
