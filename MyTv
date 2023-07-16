@@ -9,8 +9,8 @@ https://cntv.sbs/fs?id=fhhk&auth=2307100804
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 http://r.jdshipin.com/ZQ4kN
-#EXTINF:-1, group-title="其他精品🎬" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",上海五星体育
-https://cntv.sbs/live?auth=2307100804&id=wxty
+#EXTINF:-1, group-title="其他精品🎬" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_536,limit_1",上海五星体育#
+
 
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
@@ -216,7 +216,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingka
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%B1%9F%E8%8B%8F%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
+#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",优漫卡通
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
