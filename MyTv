@@ -216,7 +216,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingka
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",卡酷少儿
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",优漫卡通
+#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png",优漫卡通
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
