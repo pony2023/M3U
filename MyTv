@@ -123,7 +123,8 @@ http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
 
 
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#@http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, tvg-name="欢笑剧场" group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
@@ -140,6 +141,12 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 #EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他精品🎬",CHC高清电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他精品🎬",CHC动作电影
+http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
+#EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他精品🎬",CHC家庭影院
+http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 #EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",newtv超级综艺
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
 #EXTINF:-1, group-title="其他精品🎬"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png",newtv超级体育
@@ -187,11 +194,18 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-
 #EXTINF:-1, group-title="其他精品🎬" tvg-logo="",农业致富
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
 #EXTINF:-1, group-title="其他精品🎬" tvg-logo="",潮妈辣婆
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="其他精品🎬",求索纪录
+http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://n.ysyz.top:99/buyaolian/qskx.png" group-title="其他精品🎬",求索科学
+http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/qssh.png" group-title="其他精品🎬",求索生活
+http://39.134.65.208/PLTV/88888888/224/3221225715/index.m3u8
+
+
 
 
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",黑莓动画
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",金鹰卡通
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",炫动卡通
@@ -202,6 +216,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",山东教育
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
+#EXTINF:-1, group-title="少儿卡通👶" tvg-logo="",动漫秀场
+http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视#
