@@ -12,8 +12,9 @@ http://112.102.214.193:65530/live/fhzx/index.m3u8
 #@http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #@http://120.84.96.45:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #@https://cntv.sbs/fs?id=fhhk&auth=2307100804
-http://www.flyfreely.top:4000/udp/239.255.30.123:8231
+#@http://www.flyfreely.top:4000/udp/239.255.30.123:8231
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1024px-TDM_Logo.svg.png", 澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
@@ -68,6 +69,9 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png", CCTV17
 http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+#EXTINF:-1,tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="CCTV",CCTV风云音乐
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+#@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1, tvg-name="央视精品" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",CCTV文化精品
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
@@ -233,9 +237,12 @@ http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
 http://39.134.67.226/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1, group-title="纪实人文🧭", tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png", 上海纪实人文
 http://39.134.67.226/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1, group-title="纪实人文🧭", tvg-logo="http://n.ysyz.top:99/buyaolian/aims.png", 爱美食
+http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
 
 
-
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="http://n.ysyz.top:99/buyaolian/aiwj.png",爱玩具
+http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png",黑莓动画
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B9%96%E5%8D%97%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png",金鹰卡通
@@ -252,6 +259,7 @@ http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
+
 
 
 
