@@ -255,6 +255,10 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png",动漫秀场
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="http://img2.allchina.cn/FCK/userupfile/images/2019697701425712577.jpg",南京少儿
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png",山东教育
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
