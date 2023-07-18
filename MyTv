@@ -222,10 +222,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png",newtv超级综艺
@@ -264,6 +260,8 @@ http://39.134.67.226/PLTV/88888888/224/3221225670/index.m3u8
 http://39.134.67.226/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1, group-title="纪实人文🧭", tvg-logo="http://n.ysyz.top:99/buyaolian/aims.png", 爱美食
 http://111.40.196.36/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1, group-title="纪实人文🧭", tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%92%AA%E5%92%95%E4%BD%93%E8%82%B2.png", 咪咕体育
+http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
 
 
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="http://n.ysyz.top:99/buyaolian/aiwj.png",爱玩具
