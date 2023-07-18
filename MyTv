@@ -70,12 +70,25 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png", CCTV17
 http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 #EXTINF:-1,tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="CCTV",CCTV风云音乐
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+#@http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 #@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1, tvg-name="央视精品" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",CCTV文化精品
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1,tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="CCTV",CCTV风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1,tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="CCTV",CCTV风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1,tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="CCTV",CCTV怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1, tvg-name="文化精品" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png",CCTV文化精品
+http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
+#@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1,tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+#@http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1,tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="CCTV",CCTV女性时尚
+http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
+#EXTINF:-1,tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="CCTV",CCTV电视指南
+http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 #EXTINF:-1，tvg-name="CGTN" group-title="CCTV"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/cgtn.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1,tvg-name="CGTNDocumentary" group-title="CCTV"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png",CGTN 纪录
@@ -124,6 +137,8 @@ http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 #EXTINF:-1, group-title="省级卫视" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png", 黑龙江卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
 
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥新闻
+http://120.210.193.151:8006/120000001002/XMThfxw/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg", 安徽综艺体育
 http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahjjsh.jpg", 安徽经济生活
@@ -142,6 +157,10 @@ http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
 http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://gl0.ahtv.cn/download/images/logo.png", 海豚少儿
 http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://gl0.ahtv.cn/download/images/logo.png", 海豚生活
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://gl0.ahtv.cn/download/images/logo.png", 徽生活
+http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/25cdc5374c2aa4bbea21bc1bc8dc7d01917c7227/tv/suzhou4k.png", 苏州4K
@@ -151,6 +170,8 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, tvg-name="欢笑剧场" group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
 http://39.134.19.234:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #@https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/%E7%BA%AF%E4%BA%AB4K.png", 纯享4K
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-20M-2160P-chunxiang4k/1.m3u8
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K频道🌈"tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/M87kbVk.png",Clarity 4K
@@ -185,6 +206,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/aiqingxj/
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingsongxy/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png",潮妈辣婆
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
+#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",家庭剧场  
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",热播精选        
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",家庭剧场
@@ -265,6 +288,10 @@ http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png",CETV-1
+http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-1
+http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 
 
 
