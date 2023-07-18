@@ -210,8 +210,6 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",热播精选        
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png",家庭剧场
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/472904b587739fe23749c2fd243be082a453b637/tv/NEWTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png",精品大剧
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png",军旅剧场
