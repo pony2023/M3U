@@ -335,14 +335,11 @@ http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png",民视综艺台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png", 中天新闻台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
-#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立新闻台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
-#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
-#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBSHD#
@@ -350,7 +347,6 @@ http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://24hrkpop.com/wp-content/uploads/2020/04/KPOP-Logo-Alpha.png", KPOP#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/Hong_Kong_Cable_TV_logo.svg/1200px-Hong_Kong_Cable_TV_logo.svg.png",有线新闻台
 #EXTINF:-1, tvg-name="香港开电视" group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/Hoy.png", HOY TV
-#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
 
 
