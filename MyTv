@@ -128,11 +128,11 @@ http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
 http://112.102.214.193:65530/live/fhzw/index.m3u8
-#@http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-#@http://www.flyfreely.top:4000/udp/239.255.30.50:8231
-#@http://r.jdshipin.com/cCCzW
-#@http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-#@http://120.84.96.45:808/hls/29/index.m3u8
+http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+http://www.flyfreely.top:4000/udp/239.255.30.50:8231
+http://r.jdshipin.com/cCCzW
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+http://120.84.96.45:808/hls/29/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
 http://112.102.214.193:65530/live/fhzx/index.m3u8
 #@http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
@@ -142,6 +142,8 @@ http://112.102.214.193:65530/live/fhzx/index.m3u8
 http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #@https://cntv.sbs/fs?id=fhhk&auth=2307100804
 #@http://www.flyfreely.top:4000/udp/239.255.30.123:8231
+#EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://github.com/pony2023/M3U/blob/main/Logo/大立电视.png", 大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1024px-TDM_Logo.svg.png", 澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/香港卫视.png", 香港卫视
