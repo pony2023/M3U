@@ -165,8 +165,7 @@ http://159.75.85.63:5679/cctv4k.php
 #@https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #@https://cntv.sbs/live?auth=2307100804&id=cctv4k
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-https://cntv.sbs/live?auth=2307280808&id=cctv164k
-#https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #@http://39.134.65.208/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -259,13 +258,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
 
 #EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",上海五星体育
-https://cntv.sbs/live?auth=2307280808&id=wxty
+
 #EXTINF:-1, group-title="纪实人文🧭", tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png", 咪咕体育
 http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="纪实人文🧭",劲爆体育
-https://cntv.sbs/live?auth=2307280808&id=jbty
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png" group-title="纪实人文🧭",法治天地
-https://cntv.sbs/live?auth=2307280808&id=fztd
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png",newtv超级综艺
