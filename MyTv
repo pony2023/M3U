@@ -128,13 +128,15 @@ http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
 http://r.jdshipin.com/cCCzW
+https://php.17186.eu.org/phtv/fhzw.m3u8
 #http://175.13.226.152:8888/udp/239.76.246.7:1234
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
+https://php.17186.eu.org/phtv/fhzx.m3u8
 http://r.jdshipin.com/0Rp07
 #@http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 #@http://120.84.96.45:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
-#https://cntv.sbs/fs?id=fhhk&auth=2307280808
+https://php.17186.eu.org/phtv/fhxg.m3u8
 #@https://cntv.sbs/fs?id=fhhk&auth=2307100804
 #@http://www.flyfreely.top:4000/udp/239.255.30.123:8231
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
