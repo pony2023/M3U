@@ -128,8 +128,8 @@ http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
 http://103.112.191.9:880/LAOSAT1015.m3u8
-http://www.flyfreely.top:4000/udp/239.255.30.50:8231
-http://r.jdshipin.com/cCCzW
+#http://www.flyfreely.top:4000/udp/239.255.30.50:8231
+#http://r.jdshipin.com/cCCzW
 #http://175.13.226.152:8888/udp/239.76.246.7:1234
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
 http://103.112.191.9:880/LAOSAT1068.m3u8
@@ -255,8 +255,6 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="电影电视🎬",华语影院
-https://cntv.sbs/live?auth=2307280808&id=hyyy
 
 
 
