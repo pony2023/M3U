@@ -151,7 +151,7 @@ http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
 http://bad-ass.site:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
-中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+#中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
 http://bad-ass.site:35455/youtube/TCnaIE_SAtM
 #https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
