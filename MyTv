@@ -129,10 +129,12 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-http://php.17186.eu.org/phtv/fhzw.m3u8
+http://103.112.191.9:880/LAOSAT1015.m3u8
+#http://php.17186.eu.org/phtv/fhzw.m3u8
 #http://175.13.226.152:8888/udp/239.76.246.7:1234
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://bad-ass.site:35455/youtube/if6yQq_JJyY
+#http://bad-ass.site:35455/youtube/if6yQq_JJyY
+http://103.112.191.9:880/LAOSAT1068.m3u8
 #https://php.17186.eu.org/phtv/fhzx.m3u8
 #http://r.jdshipin.com/0Rp07
 #@http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
@@ -200,6 +202,22 @@ http://bad-ass.site:35455/youtube/WIhgU_mc05A
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="",香港麵包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png",东森电影
+http://103.112.191.9:880/LAOSAT1017.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://emovie.ebc.net.tw/Images/footer-logo.png",东森洋片
+http://103.112.191.9:880/LAOSAT1018.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",天映频道
+http://103.112.191.9:880/LAOSAT1029.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",龙祥时代
+http://103.112.191.9:880/LAOSAT1084.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://www.dngtw.tw/scmhd/images/StarChinese%20MoviesHD_logo.png",星卫电影台
+http://103.112.191.9:880/LAOSAT1082.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/卫视电影台.png",卫视电影台
+http://103.112.191.9:880/LAOSAT1085.m3u8
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
+http://103.112.191.9:880/LAOSAT1016.m3u8
+
+
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/RTHK.png", RTHKTV31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
@@ -239,6 +257,7 @@ http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
+
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
 http://bad-ass.site:35455/youtube/9Auq9mYxFEE
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/abc.png",ABC News
@@ -247,6 +266,15 @@ http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
 http://bad-ass.site:35455/youtube/h3MuIUNCCzI
 #EXTINF:-1 group-title="Global🌎"tvg-logo="",Euronews
 http://bad-ass.site:35455/youtube/pykpO5kQJ98
+
+#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNN.png",CNN
+http://103.112.191.9:880/LAOSAT1087.m3u8
+#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/DW.png",DWnews
+http://103.112.191.9:880/LAOSAT1072.m3u8
+#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO
+http://103.112.191.9:880/LAOSAT1089.m3u8
+#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://turesport.es/wp-content/uploads/2021/05/cropped-turesport-logo-web-2.png",turesports
+http://103.112.191.9:880/LAOSAT1020.m3u8
 
 #EXTINF:-1,tvg-name="ChannelNewsAsia" group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
