@@ -159,8 +159,6 @@ http://103.112.191.9:880/LAOSAT1085.m3u8
 http://103.112.191.9:880/LAOSAT1016.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/RTHK.png", RTHKTV31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/RTHK.png", RTHKTV32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1024px-TDM_Logo.svg.png", 澳视澳门
