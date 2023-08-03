@@ -259,7 +259,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 
-#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNN.png",CNN
+#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png",CNN
 http://103.112.191.9:880/LAOSAT1087.m3u8
 #EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/DW.png",DWnews
 http://103.112.191.9:880/LAOSAT1072.m3u8
