@@ -199,7 +199,7 @@ http://bad-ass.site:35455/youtube/R2iMq5LKXco
 http://bad-ass.site:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://pbs.twimg.com/profile_images/445832249242427392/eLREc0_-_400x400.jpeg",新唐人LIVE
 http://bad-ass.site:35455/youtube/WIhgU_mc05A
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="",香港麵包台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg",香港麵包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png",东森电影
@@ -258,14 +258,6 @@ http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
-#EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
-http://bad-ass.site:35455/youtube/9Auq9mYxFEE
-#EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/radio/abc.png",ABC News
-http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
-#EXTINF:-1 group-title="Global🌎"tvg-logo="",FRANCE 24
-http://bad-ass.site:35455/youtube/h3MuIUNCCzI
-#EXTINF:-1 group-title="Global🌎"tvg-logo="",Euronews
-http://bad-ass.site:35455/youtube/pykpO5kQJ98
 
 #EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/CNN.png",CNN
 http://103.112.191.9:880/LAOSAT1087.m3u8
@@ -273,6 +265,14 @@ http://103.112.191.9:880/LAOSAT1087.m3u8
 http://103.112.191.9:880/LAOSAT1072.m3u8
 #EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO
 http://103.112.191.9:880/LAOSAT1089.m3u8
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
+http://bad-ass.site:35455/youtube/9Auq9mYxFEE
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/ABC.png",ABC News
+http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png",FRANCE 24
+http://bad-ass.site:35455/youtube/h3MuIUNCCzI
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",Euronews
+http://bad-ass.site:35455/youtube/pykpO5kQJ98
 #EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://turesport.es/wp-content/uploads/2021/05/cropped-turesport-logo-web-2.png",turesports
 http://103.112.191.9:880/LAOSAT1020.m3u8
 
