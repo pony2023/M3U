@@ -134,10 +134,10 @@ http://r.jdshipin.com/cCCzW
 #http://103.112.191.9:880/LAOSAT1015.m3u8
 #http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://bad-ass.site:35455/youtube/if6yQq_JJyY
+#http://bad-ass.site:35455/youtube/if6yQq_JJyY
 #http://103.112.191.9:880/LAOSAT1068.m3u8
 #https://php.17186.eu.org/phtv/fhzx.m3u8
-#http://r.jdshipin.com/0Rp07
+http://r.jdshipin.com/0Rp07
 #@http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 #@http://120.84.96.45:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
