@@ -129,12 +129,12 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-http://103.112.191.9:880/LAOSAT1015.m3u8
-#http://php.17186.eu.org/phtv/fhzw.m3u8
-#http://175.13.226.152:8888/udp/239.76.246.7:1234
+#https://cntv.sbs/fs?id=fhzw&auth=2307280808
+#http://103.112.191.9:880/LAOSAT1015.m3u8
+http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-#http://bad-ass.site:35455/youtube/if6yQq_JJyY
-http://103.112.191.9:880/LAOSAT1068.m3u8
+http://bad-ass.site:35455/youtube/if6yQq_JJyY
+#http://103.112.191.9:880/LAOSAT1068.m3u8
 #https://php.17186.eu.org/phtv/fhzx.m3u8
 #http://r.jdshipin.com/0Rp07
 #@http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
@@ -242,7 +242,8 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #@http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1, tvg-name="欢笑剧场" group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场
-http://39.134.19.234:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#http://39.134.19.234:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #@https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-20M-2160P-chunxiang4k/1.m3u8
@@ -319,6 +320,8 @@ http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 #EXTINF:-1,tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="电影电视🎬",CHC家庭影院
 http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
+#EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 #EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",newtv超级电影
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 #@http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?blog.ntnas.top
