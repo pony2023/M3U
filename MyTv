@@ -265,7 +265,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 http://103.112.191.9:880/LAOSAT1087.m3u8
 #EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/DW.png",DWnews
 http://103.112.191.9:880/LAOSAT1072.m3u8
-#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO
+#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/HBO.png",HBO
 http://103.112.191.9:880/LAOSAT1089.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
 http://bad-ass.site:35455/youtube/9Auq9mYxFEE
