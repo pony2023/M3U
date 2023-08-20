@@ -149,6 +149,36 @@ http://r.jdshipin.com/qClQf
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 http://r.jdshipin.com/ZQ4kN
 
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视
+https://fsv4.yj011.net/sat/tv051.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
+https://fsv4.yj011.net/sat/tv071.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
+https://fsv4.yj011.net/sat/tv091.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png",华视
+https://fsv4.yj011.net/sat/tv111.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png", TVBS新闻台
+https://fsv4.yj011.net/sat/tv551.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png", TVBS欢乐台
+https://fsv4.yj011.net/sat/tv421.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCFinancialNews.png", 東森財經新聞
+https://fsv4.yj011.net/sat/tv571.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://img.isuper.tv/Featured-IMG/2016/02/vl-japan-live.jpg",纬来日本
+https://fsv4.yj011.net/sat/tv771.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg",纬来体育
+https://fsv4.yj011.net/sat/tv721.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-maxtv-live.jpg",纬来育樂
+https://fsv4.yj011.net/sat/tv701.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELEVENsports1.png",ELEVEN1
+https://fsv4.yj011.net/sat/tv731.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELEVENsports1.png",ELEVEN2
+https://fsv4.yj011.net/sat/tv741.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/481ede4a-3f19-4984-bdd7-46ccadf6666b-profile_image-70x70.png.png",MOMO綜合
+https://fsv4.yj011.net/sat/tv761.flv
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/6943f27ad78410fd4d21d09ed5ac228b.png",ELTA体育1台
+https://fsv4.yj011.net/sat/md051.flv
+
+
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
 http://bad-ass.site:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
@@ -156,10 +186,10 @@ http://bad-ass.site:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
 http://bad-ass.site:35455/youtube/TCnaIE_SAtM
 #https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png", 台视新闻台
 http://bad-ass.site:35455/youtube/xL0ch83RAK8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png",台视
-https://epg.pw/stream/6343a9f5faa4503789d87f9b034c6882454f3a5c47036b35685700a28fd30270.m3u8
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
+#https://epg.pw/stream/6343a9f5faa4503789d87f9b034c6882454f3a5c47036b35685700a28fd30270.m3u8#
 #http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
 http://bad-ass.site:35455/youtube/2mCSYvcfhtc
