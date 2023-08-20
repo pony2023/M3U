@@ -173,7 +173,7 @@ https://fsv4.yj011.net/sat/tv701.flv
 https://fsv4.yj011.net/sat/tv731.flv
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELEVENsports1.png",ELEVEN2
 https://fsv4.yj011.net/sat/tv741.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/481ede4a-3f19-4984-bdd7-46ccadf6666b-profile_image-70x70.png",MOMO綜合
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://www.momotv.tw/assets/images/logo_20210101.png",MOMO綜合
 https://fsv4.yj011.net/sat/tv761.flv
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/6943f27ad78410fd4d21d09ed5ac228b.png",ELTA体育1台
 https://fsv4.yj011.net/sat/md051.flv
@@ -250,8 +250,10 @@ http://159.75.85.63:5679/cctv4k.php
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #@https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #@https://cntv.sbs/live?auth=2307100804&id=cctv4k
+#@https://cntv.sbs/tv?auth=230813&id=cctv4k
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+https://cntv.sbs/tv?auth=230813&id=cctv164k
+#https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #@http://39.134.65.208/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -359,10 +361,27 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
+https://cntv.sbs/tv?auth=230813&id=zgtq
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/华语影院.png",华语影院
+https://cntv.sbs/tv?auth=230813&id=hyyy
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",青春动漫
+https://cntv.sbs/tv?auth=230813&id=qcdm
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",星光影院
+https://cntv.sbs/tv?auth=230813&id=xgyy
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",谍战剧场
+https://cntv.sbs/tv?auth=230813&id=dzjc
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/bestv.png",全球大片
+https://cntv.sbs/tv?auth=230813&id=qqdp
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",热门剧场
+https://cntv.sbs/tv?auth=230813&id=rmjc
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",热门综艺
+https://cntv.sbs/tv?auth=230813&id=rmzy
+
 
 
 #EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",上海五星体育
-
+https://cntv.sbs/tv?auth=230813&id=wxty
 #EXTINF:-1, group-title="纪实人文🧭", tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png", 咪咕体育
 http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
