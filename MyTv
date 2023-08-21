@@ -279,13 +279,13 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
-http://bad-ass.site:35455/youtube/9Auq9mYxFEE
+#http://bad-ass.site:35455/youtube/9Auq9mYxFEE
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/ABC.png",ABC News
-http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
+#http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/300px-FRANCE_24_logo.svg.png",FRANCE 24
 http://bad-ass.site:35455/youtube/h3MuIUNCCzI
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",Euronews
-http://bad-ass.site:35455/youtube/pykpO5kQJ98
+#http://bad-ass.site:35455/youtube/pykpO5kQJ98
 
 
 #EXTINF:-1,tvg-name="ChannelNewsAsia" group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
