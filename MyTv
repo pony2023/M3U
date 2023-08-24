@@ -115,6 +115,8 @@ http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg", 安徽公共
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg", 安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://gl0.ahtv.cn/download/images/logo.png", 睛彩安徽
 http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="https://gl0.ahtv.cn/download/images/logo.png", 海豚健康
@@ -129,11 +131,11 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-
+http://180.143.112.210:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-
+http://180.143.112.210:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
-
+http://180.143.112.210:8181/tsfile/live/1002_1.m3u8
 
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 http://r.jdshipin.com/qClQf
