@@ -157,8 +157,10 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K频道🌈",CCTV8K
+#EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/a2d6b6b470276ad944dc0de5c2d3bbab04a8ee57/tv/CCTV8K.png" group-title="4K频道🌈",CCTV8K
 http://159.75.85.63:8654/xx8k50fps.php
+#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="4K频道🌈",BTV纪实科教-8KSDR源
+http://159.75.85.63:6798
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
