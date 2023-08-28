@@ -157,7 +157,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title=""4K频道🌈",CCTV8K-50FPS
+#EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title=""4K频道🌈",CCTV8K
 http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5679/cctv4k.php
