@@ -131,113 +131,34 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-http://180.143.112.210:8181/tsfile/live/1001_1.m3u8
+http://pi.0472.org/tv/cbn.php?id=xfjcHD
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://180.143.112.210:8181/tsfile/live/1000_1.m3u8
+
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
-http://180.143.112.210:8181/tsfile/live/1002_1.m3u8
 
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 http://r.jdshipin.com/ZQ4kN
-
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视
-https://fsv4.yj011.net/sat/tv051.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
-https://fsv4.yj011.net/sat/tv071.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png",中视
-https://fsv4.yj011.net/sat/tv091.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png",华视
-https://fsv4.yj011.net/sat/tv111.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png", TVBS新闻台
-https://fsv4.yj011.net/sat/tv551.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png", TVBS欢乐台
-https://fsv4.yj011.net/sat/tv421.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCFinancialNews.png", 東森財經新聞
-https://fsv4.yj011.net/sat/tv571.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://img.isuper.tv/Featured-IMG/2016/02/vl-japan-live.jpg",纬来日本
-https://fsv4.yj011.net/sat/tv771.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-sports-live.jpg",纬来体育
-https://fsv4.yj011.net/sat/tv721.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/vl-maxtv-live.jpg",纬来育樂
-https://fsv4.yj011.net/sat/tv701.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELEVENsports1.png",ELEVEN1
-https://fsv4.yj011.net/sat/tv731.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELEVENsports1.png",ELEVEN2
-https://fsv4.yj011.net/sat/tv741.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://www.momotv.tw/assets/images/logo_20210101.png",MOMO綜合
-https://fsv4.yj011.net/sat/tv761.flv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/6943f27ad78410fd4d21d09ed5ac228b.png",ELTA体育1台
-https://fsv4.yj011.net/sat/md051.flv
-
-
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
-http://bad-ass.site:35455/youtube/ylYJSBUgaMA
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
-#中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
-http://bad-ass.site:35455/youtube/TCnaIE_SAtM
-#https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png", 台视新闻台
-http://bad-ass.site:35455/youtube/xL0ch83RAK8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
-#https://epg.pw/stream/6343a9f5faa4503789d87f9b034c6882454f3a5c47036b35685700a28fd30270.m3u8#
-#http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
-http://bad-ass.site:35455/youtube/2mCSYvcfhtc
-#https://epg.pw/stream/52ceddf2dfa27f1960717f338bb816a43da93ac9de733bcba82d57746b2e073f.ctv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS NEWS LIVE
-http://bad-ass.site:35455/youtube/m_dhMSvUCIc
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVBS.png",TVBS 56頻道
-http://bad-ass.site:35455/youtube/YvdcZ_jpLXE
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png", 中天新闻台
-http://bad-ass.site:35455/youtube/oIgbl7t0S_w
-#https://epg.pw/stream/f97a160d98f87fbc12dfb8c7e015dc4839b08ffca5d5384c1e9436eac121cf76.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png", 中天新闻2台
-http://bad-ass.site:35455/youtube/WPfPjbOLNfE
-#https://epg.pw/stream/dd1cee135ea5d08d38687fc08540cd674d7d31283ec6afae1294d530ce5fd6c6.ctv
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png",中天娱乐台
-https://epg.pw/stream/7899b49cdc6ada4caea57c6951e6afaea973ec8f73104d6b397ffd8fe138b2c0.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台
-http://bad-ass.site:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="http://www.tvyan.com/uploads/dianshi/sindagmp.jpg", 信大電視台
-http://bad-ass.site:35455/youtube/AQymzwl3uSk
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻
-http://bad-ass.site:35455/youtube/B7Zp3d6xXWw
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新聞台灣台
-http://bad-ass.site:35455/youtube/UcTIv4ZaE5Y
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TaiwanPlus.svg/800px-TaiwanPlus.svg.png", TaiwanPlus
-http://bad-ass.site:35455/youtube/dZp87qnWelE
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立海外直播
-http://bad-ass.site:35455/youtube/FoBfXvlOR6I
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/公视.png",公視新聞
-http://bad-ass.site:35455/youtube/quwqlazU-c8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/华视.png",華視新聞
-http://bad-ass.site:35455/youtube/wM0g8EoUZ_E
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png",东森新闻
-http://bad-ass.site:35455/youtube/S5WOGu2HSes
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png",东森LIVE
-http://bad-ass.site:35455/youtube/R2iMq5LKXco
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCFinancialNews.png",东森财经新闻
-http://bad-ass.site:35455/youtube/WHEPzbFA3hw
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://pbs.twimg.com/profile_images/445832249242427392/eLREc0_-_400x400.jpeg",新唐人LIVE
-http://bad-ass.site:35455/youtube/WIhgU_mc05A
+https://epg.pw/stream/f97a160d98f87fbc12dfb8c7e015dc4839b08ffca5d5384c1e9436eac121cf76.m3u8
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
+http://162.19.247.76:22222/live/zhongshi/index.m3u8
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#https://epg.pw/stream/6343a9f5faa4503789d87f9b034c6882454f3a5c47036b35685700a28fd30270.m3u8#
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg",香港麵包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-
-#EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/RTHK.png", RTHKTV31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1024px-TDM_Logo.svg.png", 澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/香港卫视.png", 香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 
-
+#EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title=""4K频道🌈",CCTV8K-50FPS
+http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
@@ -445,37 +366,4 @@ http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
-
-
-
-
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png",民视综艺台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://static.rti.org.tw/assets/thumbnails/2021/07/14/ea052a221c9445990c1abd30b6b2e37d.png", 中天新闻台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png", 台视新闻台
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立新闻台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png", 寰宇新闻#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png", TVBS新闻台
-#EXTINF:-1, group-title="港澳台🇭🇰 "tvg-logo="https://www.mnews.tw/_nuxt/img/logo.4ba45fd.png", 鏡電視新聞台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/%E6%B0%91%E8%A7%86.png", 民视新闻台
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBSHD#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png", 幸福空间居家台#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://24hrkpop.com/wp-content/uploads/2020/04/KPOP-Logo-Alpha.png", KPOP#
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/Hong_Kong_Cable_TV_logo.svg/1200px-Hong_Kong_Cable_TV_logo.svg.png",有线新闻台
-#EXTINF:-1, tvg-name="香港开电视" group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/Hoy.png", HOY TV
-#EXTINF:-1 group-title="港澳台🇭🇰"tvg-logo="http://www.hkibchannel.com.hk/images/main_visual_eng.png",香港国际财经台
-#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png",CNN
-#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/DW.png",DWnews
-#EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/HBO.png",HBO
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png",东森电影
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://emovie.ebc.net.tw/Images/footer-logo.png",东森洋片
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",天映频道
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo@2x.png",龙祥时代
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://www.dngtw.tw/scmhd/images/StarChinese%20MoviesHD_logo.png",星卫电影台
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/卫视电影台.png",卫视电影台
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-
 
