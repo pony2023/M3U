@@ -157,6 +157,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a4/TDM_Logo.svg/1024px-TDM_Logo.svg.png", 澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/lotus.png" group-title="港澳台🇭🇰",莲花卫视
+http://live.cooltv.top/tv/lotus.php
 
 
 #EXTINF:-1 tvg-name="CCTV8K-50FPS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/a2d6b6b470276ad944dc0de5c2d3bbab04a8ee57/tv/CCTV8K.png" group-title="4K频道🌈",CCTV8K
