@@ -175,9 +175,10 @@ http://159.75.85.63:5679/cctv4k.php
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #@https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #@https://cntv.sbs/live?auth=2307100804&id=cctv4k
-#@https://cntv.sbs/tv?auth=230813&id=cctv4k
+#@https://cntv.sbs/tv?auth=230830&id=cctv4k
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+https://cntv.sbs/tv?auth=230830&id=cctv164k
+#https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #@http://39.134.65.208/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="4K频道🌈",斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
@@ -208,7 +209,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 #EXTINF:-1,tvg-name="ChannelNewsAsia" group-title="Global🌎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg TV+
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png",News max
@@ -230,7 +231,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1 group-title="日本",NHK World Japan
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvfRrbUp4wDFfWnVkYB_detI18zSCVgt8tQ&usqp=CAU",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-#EXTINF:-1 group-title="Global🌎"tvg-logo="http://www.cnr.cn/hygb/2010huayu/getaijian/20100917/W020100917407923922827.jpg",俄罗斯中文
+#EXTINF:-1 group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/金砖电视.png",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/5186/20220319102705-1544327261_jpeg_800_400_27689.jpg/300",韩国新闻
 http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
@@ -278,26 +279,26 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
-https://cntv.sbs/tv?auth=230813&id=zgtq
+https://cntv.sbs/tv?auth=230830&id=zgtq
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/华语影院.png",华语影院
-https://cntv.sbs/tv?auth=230813&id=hyyy
+https://cntv.sbs/tv?auth=230830&id=hyyy
 #EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",青春动漫
-https://cntv.sbs/tv?auth=230813&id=qcdm
+https://cntv.sbs/tv?auth=230830&id=qcdm
 #EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",星光影院
-https://cntv.sbs/tv?auth=230813&id=xgyy
+https://cntv.sbs/tv?auth=230830&id=xgyy
 #EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",谍战剧场
-https://cntv.sbs/tv?auth=230813&id=dzjc
+https://cntv.sbs/tv?auth=230830&id=dzjc
 #EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/bestv.png",全球大片
-https://cntv.sbs/tv?auth=230813&id=qqdp
+https://cntv.sbs/tv?auth=230830&id=qqdp
 #EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",热门剧场
-https://cntv.sbs/tv?auth=230813&id=rmjc
+https://cntv.sbs/tv?auth=230830&id=rmjc
 #EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺"group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/bestv.png",热门综艺
-https://cntv.sbs/tv?auth=230813&id=rmzy
+https://cntv.sbs/tv?auth=230830&id=rmzy
 
-
-
+#EXTINF:-1,  tvg-id="SITV法治天地"tvg-name="SITV法治天地"group-title="纪实人文🧭" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",法治天地
+https://cntv.sbs/tv?auth=230830&id=wxty
 #EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",上海五星体育
-https://cntv.sbs/tv?auth=230813&id=wxty
+https://cntv.sbs/tv?auth=230830&id=wxty
 #EXTINF:-1, group-title="纪实人文🧭", tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png", 咪咕体育
 http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
