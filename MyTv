@@ -177,9 +177,7 @@ http://159.75.85.63:5679/cctv4k.php
 #@https://cntv.sbs/live?auth=2307100804&id=cctv4k
 #@https://cntv.sbs/tv?auth=230813&id=cctv4k
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-#http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?
-https://cntv.sbs/tv?auth=230813&id=cctv164k
-#https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #@http://39.134.65.208/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="4K频道🌈",斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
