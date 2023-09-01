@@ -131,12 +131,12 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-#http://xcm13.f3322.net:4000/udp/239.93.0.162:2192
+http://xcm13.f3322.net:4000/udp/239.93.0.162:2192
 #http://xcm13.f3322.net:4000/udp/239.93.1.9:2192
-http://pi.0472.org/tv/cbn.php?id=xfjcHD
+#http://pi.0472.org/tv/cbn.php?id=xfjcHD
 #http://r.jdshipin.com/cCCzW
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-#http://xcm13.f3322.net:4000/udp/239.93.0.118:2191
+http://xcm13.f3322.net:4000/udp/239.93.0.118:2191
 #http://xcm13.f3322.net:4000/udp/239.93.1.4:2191
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
@@ -182,8 +182,6 @@ https://cntv.sbs/tv?auth=230830&id=cctv164k
 #@http://39.134.65.208/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="4K频道🌈",斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1 tvg-name="4K影视" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道🌈",4K影视
-http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png", 苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
