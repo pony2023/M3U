@@ -131,13 +131,9 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-http://xcm13.f3322.net:4000/udp/239.93.0.162:2192
-#http://xcm13.f3322.net:4000/udp/239.93.1.9:2192
 #http://pi.0472.org/tv/cbn.php?id=xfjcHD
-#http://r.jdshipin.com/cCCzW
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://xcm13.f3322.net:4000/udp/239.93.0.118:2191
-#http://xcm13.f3322.net:4000/udp/239.93.1.4:2191
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
 
@@ -147,10 +143,6 @@ http://r.jdshipin.com/qClQf
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i.imgur.com/j9Gebr5.png", 民视新闻台
 https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png", 中天新闻台
-https://epg.pw/stream/f97a160d98f87fbc12dfb8c7e015dc4839b08ffca5d5384c1e9436eac121cf76.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
-https://epg.pw/stream/82f32d75a3fc48001b26514205937c92561b5540c3d1f21b644c86c17dd4ea63.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
 http://162.19.247.76:22222/live/zhongshi/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视
@@ -364,3 +356,6 @@ http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 
+
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png", 中天新闻台
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
