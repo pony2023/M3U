@@ -163,7 +163,7 @@ http://159.75.85.63:8654/xx8k50fps.php
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="4K频道🌈",BTV纪实科教-8KSDR源
 #http://159.75.85.63:6798
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
-http://159.75.85.63:5679/cctv4k.php
+http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #@http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #@https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #@https://cntv.sbs/live?auth=2307100804&id=cctv4k
