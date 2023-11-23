@@ -79,8 +79,7 @@ https://astro1.rastream.com/myfm
 https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/yes933.png" group-title="新马" radio="true",YES 933
 https://22393.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/love972.png" group-title="新马" radio="true",LOVE 972
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/love972.png" group-title="新马" radio="true",LOVE 972#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/melody.png" group-title="新马" radio="true",Melody
 https://astro3.rastream.com/melody
 
@@ -206,8 +205,6 @@ http://radiokest.serverroom.us:6670/;stream.mp3
 https://utulsa.streamguys1.com/KWGSHD3-MP3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外" radio="true",MSNBC Radio
 http://peridot.streamguys.com:7850/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外",CNA 938
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外",VOA Global English
 http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外" radio="true",VOA
