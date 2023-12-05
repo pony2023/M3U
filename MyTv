@@ -131,11 +131,12 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh
 http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-#http://pi.0472.org/tv/cbn.php?id=xfjcHD
-http://r.jdshipin.com/cCCzW
+http://113.117.74.52:8081/hls/37/index.m3u8#http://180.143.86.40:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/phoenixtv_/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://r.jdshipin.com/0Rp07
+http://113.117.74.52:8081/hls/36/index.m3u8#http://180.143.86.40:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/phoenixinfo_/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台🇭🇰",凤凰香港
+http://113.117.74.52:8081/hls/38/index.m3u8#http://180.143.86.40:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+
 
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 http://r.jdshipin.com/qClQf
