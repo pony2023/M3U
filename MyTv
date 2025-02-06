@@ -8,8 +8,6 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png", CCTV5
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png", CCTV5+
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png", CCTV6
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png", CCTV7
@@ -35,6 +33,8 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 #EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png", CCTV17
 http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+#EXTINF:-1, group-title="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png", CCTV5+
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
 #EXTINF:-1,tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="CCTV",CCTV风云音乐
 http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
 #EXTINF:-1,tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="CCTV",CCTV风云剧场
