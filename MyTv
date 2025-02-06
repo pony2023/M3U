@@ -233,24 +233,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1, group-title="纪实人文🧭", tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png", 咪咕体育
 http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
 #EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://www.i1024.com/wp-content/uploads/2016/06/sinovision-logo.jpg",美国中文电视
-#EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png",newtv超级综艺
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭"tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png",newtv超级体育
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",精品综合
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png",金牌综艺
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV军事评论.png",军事评论
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV精品纪录.png",精品纪录
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV精品体育.png",精品体育
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",怡伴健康
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
-#EXTINF:-1, group-title="纪实人文🧭" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",农业致富
-http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
 #EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="纪实人文🧭",求索纪录
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://n.ysyz.top:99/buyaolian/qskx.png" group-title="纪实人文🧭",求索科学
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/qssh.png" group-title="纪实人文🧭",求索生活
