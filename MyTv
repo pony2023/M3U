@@ -138,13 +138,13 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
 #http://60.176.175.227:4022/udp/233.50.201.63:5140
-#EXTINF:-1 tvg-name="4K频道🌈""北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="数字频道",纪实科教8K
+#EXTINF:-1  group-title="4K频道🌈"tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 group-title="4K频道🌈" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="数字频道",北京IPTV4K
+#EXTINF:-1 group-title="4K频道🌈"tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="数字频道",北京IPTV4K
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887500.m3u8
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-20M-2160P-chunxiang4k/1.m3u8
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
