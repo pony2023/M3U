@@ -119,18 +119,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 ,group-title="Global🌎"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1, group-title="Global🌎"tvg-logo="https://i.imgur.com/j9Gebr5.png", 民视新闻台
-http://live4play.uk/livehttpplay?channel_id=20097
-#EXTINF:-1, group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森综合
-http://live4play.uk/livehttpplay?channel_id=20104
 
-#EXTINF:-1, group-title="Global🌎"tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png", 三立新闻
-http://live4play.uk/livehttpplay?channel_id=10126
-#EXTINF:-1, group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png", 三立综合
-http://live4play.uk/livehttpplay?channel_id=12038
-
-#EXTINF:-1, group-title="Global🌎"tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png", 纬来体育
-http://live4play.uk/livehttpplay?channel_id=20120
 #EXTINF:-1, group-title="Global🌎" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="Global🌎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png",ArirangTV
@@ -144,8 +133,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #http://60.176.175.227:4022/udp/233.50.201.63:5140
 #EXTINF:-1  group-title="4K频道🌈"tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 group-title="4K频道🌈"tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png",北京IPTV4K
-http://dsj.motem.top:8880/bptv/10000100000000050000000003887500.m3u8
+
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-20M-2160P-chunxiang4k/1.m3u8
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
@@ -208,3 +196,10 @@ http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 
+
+#EXTINF:-1, group-title="Global🌎"tvg-logo="https://i.imgur.com/j9Gebr5.png", 民视新闻台
+#EXTINF:-1, group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森综合
+#EXTINF:-1, group-title="Global🌎"tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png", 三立新闻
+#EXTINF:-1, group-title="Global🌎"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png", 三立综合
+#EXTINF:-1, group-title="Global🌎"tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png", 纬来体育
+#EXTINF:-1 group-title="4K频道🌈"tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png",北京IPTV4K
