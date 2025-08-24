@@ -110,6 +110,8 @@ http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 #EXTINF:-1, group-title="安徽本地"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg", 安徽国际
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+#EXTINF:-1, group-title="安徽本地"tvg-logo="https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d1001e9889d9177af0e7bec54e73a4c?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_312", 生活时尚,
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
 
 
 #EXTINF:-1, group-title="港台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
@@ -152,6 +154,10 @@ http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
+#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",炫动卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8
 
 
 #EXTINF:-1 group-title="国际",BBC
@@ -372,41 +378,21 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 
 #EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",超级电影
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png",超级电视剧
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",动作电影       
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongzuody/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png",古装剧场       
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guzhuangjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",爱情喜剧      
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/aiqingxj/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",惊悚悬疑
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingsongxy/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png",潮妈辣婆
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png",家庭剧场  
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://image.thepaper.cn/www/image/26/720/113.jpg",热播精选        
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png",精品大剧
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",军旅剧场
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江影视
-#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+
 
 
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
-#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png",炫动卡通
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
-
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
-#http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
