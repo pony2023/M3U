@@ -4,8 +4,7 @@ http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/defa
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-#EXTINF:-1 ,group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
 
 #EXTINF:-1, group-title="CCTV🇨🇳" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png", CCTV1
 http://120.210.193.151:8006/120000000058/G_CCTV-1-CQ/index.m3u8
@@ -128,6 +127,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #http://122.241.210.180:4022/udp/233.50.200.192:5140
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png", 凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i.imgur.com/j9Gebr5.png", 民视新闻台
@@ -176,11 +177,11 @@ http://120.210.193.151:8006/120000000058/GITV-AH-15/GITV-AH-15.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-13/GITV-AH-13.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",军旅剧场
 http://120.210.193.151:8006/120000000058/GITV-AH-14/GITV-AH-14.m3u8
-#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png",NEWTV精品综合
+#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png",精品综合
 http://120.210.193.151:8006/120000000058/GITV-AH-20/GITV-AH-20.m3u8
 #EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
-#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png",NEWTV精品记录
+#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png",精品记录
 http://120.210.193.151:8006/120000000058/GITV-AH-8/GITV-AH-8.m3u8
 
 #EXTINF:-1 group-title="Global🌎",BBC
