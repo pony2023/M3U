@@ -53,7 +53,6 @@ http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 #EXTINF:-1,tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="CCTV🇨🇳",法治天地
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
 
-
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽卫视
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视
@@ -109,7 +108,7 @@ http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgg.jpg", 安徽公共
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
-#EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg", 安徽Global🌎
+#EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg", 安徽国际
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d1001e9889d9177af0e7bec54e73a4c?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_312", 生活时尚
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
@@ -174,9 +173,8 @@ http://120.210.193.151:8006/120000000058/GITV-AH-14/GITV-AH-14.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-20/GITV-AH-20.m3u8
 #EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
-#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品记录.png",NEWTV精品记录
+#EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png",NEWTV精品记录
 http://120.210.193.151:8006/120000000058/GITV-AH-8/GITV-AH-8.m3u8
-
 
 #EXTINF:-1 group-title="Global🌎",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
