@@ -1,5 +1,6 @@
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
-http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
+#http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #http://120.210.193.151:8006/120000000058/GITV-AH-29/GITV-AH-29.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png", 苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
