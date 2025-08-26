@@ -38,6 +38,9 @@ http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="中央",CRI华语环球广播  
 http://sk.cri.cn/hyhq.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="台新",CityFM|城市广播
+http://fm929.cityfm.tw:8080/929.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="台新" radio="true",News98新闻台
 http://stream.rcs.revma.com/em90w4aeewzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.news98.com.tw/images/logo.png" group-title="台新" radio="true",台湾九八新闻台
@@ -58,8 +61,6 @@ http://n08.rcs.revma.com/em90w4aeewzuv
 http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台湾古典音乐台.png" group-title="台新" radio="true",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="台新" radio="true",CityFM|城市广播
-http://fm929.cityfm.tw:8080/929.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/国立教育电台.png" group-title="台新" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/uni967.png" group-title="台新",环宇广播
@@ -74,6 +75,11 @@ http://stream.rcs.revma.com/aw9uqyxy2tzuv
 https://22393.live.streamtheworld.com/YES933_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023052107512374.jpg" group-title="台新" radio="true",新加坡HAO 963
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/love972.png" group-title="台新",LOVE 972
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="台新",UFM 1003
+https://22243.live.streamtheworld.com/UFM_1003AAC_SC
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/my.png" group-title="新马" radio="true",MY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="新马" radio="true",One FM 913
