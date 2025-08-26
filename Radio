@@ -55,9 +55,7 @@ http://stream.rcs.revma.com/xpgtqc74hv8uv
 http://stream.rcs.revma.com/kydend74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.flyradio.com.tw/wp-content/uploads/2021/05/flyradio-895-light.png" group-title="台新",FlyRadio飞扬调频
 http://stream.rcs.revma.com/e0tdah74hv8uv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="台新",飞碟电台
-http://n08.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="台新" radio="true",飞碟电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="台新",飞碟电台
 http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台湾古典音乐台.png" group-title="台新" radio="true",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
