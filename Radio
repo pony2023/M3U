@@ -153,7 +153,6 @@ http://ls.qingting.fm/live/1140.m3u8
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 group-title="网播" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音Hi-FiRadio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-
 #EXTINF:-1 group-title="网播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
 #EXTINF:-1 group-title="网播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音国风
@@ -211,23 +210,16 @@ http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外"radio="true",RFI
 http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wzh.radiomandarin.fr/p_logo.jpg" group-title="境外",RME欧洲华语广播电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio.streamitter.com/images/logos/X1GW0C.png?time=1756219826" group-title="境外",RME欧洲华语广播电台
 http://rme.stream.dicast.fr:8000/rme-192.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="境外",RTHK普通话台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zuiai.tv/zb_users/upload/2025/3/2025032080097577.jpg" group-title="境外",加拿大中文电台
-https://5b2959fe11444.streamlock.net/radio/fm889.stream/playlist.m3u8
 #EXTINF:-1,group-title="境外" tvg-logo="https://static.wixstatic.com/media/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg/v1/fill/w_155,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg",美国中文电台
 http://radiokest.serverroom.us:6670/;stream.mp3
 #EXTINF:-1,group-title="境外" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png",BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外",VOA Global English#
-#http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8#
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外" radio="true",VOA#
-#http://stream.radiojar.com/7thwu53r92quv#
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/rfa.png" group-title="境外" radio="true",RFA#
-#https://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8#
+
 
 
 
