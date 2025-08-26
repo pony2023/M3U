@@ -55,8 +55,6 @@ http://stream.rcs.revma.com/xpgtqc74hv8uv
 http://stream.rcs.revma.com/kydend74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.flyradio.com.tw/wp-content/uploads/2021/05/flyradio-895-light.png" group-title="台新",FlyRadio飞扬调频
 http://stream.rcs.revma.com/e0tdah74hv8uv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="台新",飞碟电台
-http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台湾古典音乐台.png" group-title="台新" radio="true",台湾古典音乐台
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/国立教育电台.png" group-title="台新" radio="true",国立教育电台
@@ -82,7 +80,6 @@ https://22243.live.streamtheworld.com/UFM_1003AAC_SC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/my.png" group-title="新马" radio="true",MY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="新马" radio="true",One FM 913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/love972.png" group-title="新马" radio="true",LOVE 972#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/melody.png" group-title="新马" radio="true",Melody
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽之声.png" group-title="安徽" radio="true",安徽之声
@@ -132,6 +129,8 @@ http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
 http://ls.qingting.fm/live/1271.m3u8
 #EXTINF:-1 group-title="地方"tvg-logo="https://images.radiosonline.app/19841/LJ7KWB5aKf.png",深圳私家车广播FM94.2
 http://ls.qingting.fm/live/1273.m3u8
+#EXTINF:-1 group-title="地方"tvg-logo="https://worldradiomap.com/cn/images/gd_shenzhen-xianfeng.gif",深圳先锋898
+http://ls.qingting.fm/live/1270.m3u8
 #EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/广东音乐之声.png",广东音乐之声FM99.3
 http://ls.qingting.fm/live/1260.m3u8
 #EXTINF:-1,group-title="地方"tvg-logo="https://live.fanmingming.com/radio/楚天音乐广播.png",楚天音乐广播
@@ -146,6 +145,8 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/radio/宁波交通广播.png",宁波交通广播FM93.9
 http://ls.qingting.fm/live/1140.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/radio/四川岷江音乐.png",岷江音乐台
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网播",动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
