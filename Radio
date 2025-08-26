@@ -111,6 +111,8 @@ http://ls.qingting.fm/live/336.m3u8
 http://ls.qingting.fm/live/333.m3u8
 #EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/上海交通广播.png",上海动感101
 http://ls.qingting.fm/live/274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="地方" radio="true",上海长三角之声
+https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 #EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/江苏经典流行音乐广播.png",江苏经典流行音乐广播
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 #EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/江苏音乐广播.png",江苏音乐广播
@@ -121,8 +123,12 @@ http://ls.qingting.fm/live/4944.m3u8
 http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
 #EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/江苏健康广播.png",江苏健康广播
 http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="地方" radio="true",上海长三角之声
-https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/深圳飞扬971.png",深圳飞扬音乐971
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 group-title="地方"tvg-logo="https://cdn-radiotime-logos.tunein.com/s103905d.png",深圳私家车广播FM94.2
+http://ls.qingting.fm/live/1273.m3u8
+#EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/广东音乐之声.png",广东音乐之声FM99.3
+http://ls.qingting.fm/live/1260.m3u8
 #EXTINF:-1,group-title="地方"tvg-logo="https://live.fanmingming.com/radio/楚天音乐广播.png",楚天音乐广播
 http://ls.qingting.fm/live/1289.m3u8
 #EXTINF:-1,group-title="地方"tvg-logo="https://live.fanmingming.com/radio/厦门音乐广播.png",厦门音乐广播
@@ -135,19 +141,12 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 http://ls.qingting.fm/live/3047946.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/宁波交通广播.png",宁波交通广播 FM93.9
 http://ls.qingting.fm/live/1140.m3u8
-#EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/深圳飞扬971.png",深圳飞扬音乐971
-http://ls.qingting.fm/live/1271.m3u8
-#EXTINF:-1 group-title="地方"tvg-logo="https://cdn-radiotime-logos.tunein.com/s103905d.png",深圳私家车广播FM94.2
-http://ls.qingting.fm/live/1273.m3u8
-#EXTINF:-1 group-title="地方"tvg-logo="https://live.fanmingming.com/radio/广东音乐之声.png",广东音乐之声FM99.3
-http://ls.qingting.fm/live/1260.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网播",动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 group-title="网播" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音 Hi-Fi Radio
+#EXTINF:-1 group-title="网播" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png",天籟之音Hi-FiRadio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网播",天籁之音-经典正流行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png" group-title="网播",天籁之音经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8 
 #EXTINF:-1 group-title="网播"tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/08adeccaf28f1230edf5dfb1f2dbea26.png",天籁之音-国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
@@ -203,10 +202,12 @@ http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外"radio="true",RFI
-http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3#EXTINF:-1,group-title="境外" tvg-logo="https://static.wixstatic.com/media/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg/v1/fill/w_155,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg",美国中文电台
+http://rfichinois96k.ice.infomaniak.ch/rfichinois-96k.mp3
+#EXTINF:-1,group-title="境外" tvg-logo="https://static.wixstatic.com/media/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg/v1/fill/w_155,h_151,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8a3185_3c8a42561e2c462a955a0136261cba84~mv2.jpg",美国中文电台
 http://radiokest.serverroom.us:6670/;stream.mp3
 #EXTINF:-1,group-title="境外" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png",BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外" radio="true",MSNBC Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/voa.png" group-title="境外",VOA Global English
 #http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
