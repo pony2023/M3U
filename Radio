@@ -49,11 +49,11 @@ http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNG
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
 #EXTINF:-1 group-title="台新"tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png",台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia927.png" group-title="台新",AsiaFM亚洲电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiafm.com.tw/wp-content/uploads/2021/05/%E6%94%B6%E8%81%BD%E9%A0%81%E9%9D%A2-927%E4%BA%AE.png" group-title="台新",AsiaFM亚洲电台
 http://stream.rcs.revma.com/xpgtqc74hv8uv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/asia923.png" group-title="台新",AsiaFM亚太电台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiafm.com.tw/wp-content/uploads/2021/05/%E6%94%B6%E8%81%BD%E9%A0%81%E9%9D%A2-923%E4%BA%AE.png" group-title="台新",AsiaFM亚太电台
 http://stream.rcs.revma.com/kydend74hv8uv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/flyfm.png" group-title="台新",FlyRadio飞扬调频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.flyradio.com.tw/wp-content/uploads/2021/05/flyradio-895-light.png" group-title="台新",FlyRadio飞扬调频
 http://stream.rcs.revma.com/e0tdah74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/飞碟电台.png" group-title="台新",飞碟电台
 http://n08.rcs.revma.com/em90w4aeewzuv
@@ -63,7 +63,7 @@ http://stream.rcs.revma.com/55tyxsy4qtzuv
 http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/国立教育电台.png" group-title="台新" radio="true",国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.cooltv.top/logo/uni967.png" group-title="台新",环宇广播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ts4.tc.mm.bing.net/th/id/OIP-C.d586bcvMM1X2e7fj24NlSAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="台新",环宇广播
 http://stream.rcs.revma.com/srn5f9kmwxhvv
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="台新",BCC中广音乐
 http://stream.rcs.revma.com/ks4vsmg3qtzuv
