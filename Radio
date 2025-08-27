@@ -49,6 +49,8 @@ http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNG
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
 #EXTINF:-1 group-title="台新"tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png",台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1 group-title="台新"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/BVgFZcffHC.jpg",台南之音
+http://fm971.cityfm.tw:8080/971.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiafm.com.tw/wp-content/uploads/2021/05/%E6%94%B6%E8%81%BD%E9%A0%81%E9%9D%A2-927%E4%BA%AE.png" group-title="台新",AsiaFM亚洲电台
 http://stream.rcs.revma.com/xpgtqc74hv8uv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiafm.com.tw/wp-content/uploads/2021/05/%E6%94%B6%E8%81%BD%E9%A0%81%E9%9D%A2-923%E4%BA%AE.png" group-title="台新",AsiaFM亚太电台
