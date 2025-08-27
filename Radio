@@ -78,7 +78,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="台新",UFM 1003
 https://22243.live.streamtheworld.com/UFM_1003AAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/fanmingming/live/blob/main/radio/988.png" group-title="台新",FM988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/988.png" group-title="台新",FM988
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/my.png" group-title="新马" radio="true",MY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="新马" radio="true",One FM 913
