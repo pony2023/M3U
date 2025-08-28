@@ -53,6 +53,8 @@ http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
 #EXTINF:-1,tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="CCTV🇨🇳",CCTV怀旧剧场
 http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1,tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="CCTV🇨🇳",CCTV第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
 #EXTINF:-1, tvg-name="文化精品" group-title="CCTV🇨🇳" tvg-logo="https://live.fanmingming.com/tv/文化精品.png",CCTV文化精品
 http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
 #EXTINF:-1,tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="CCTV🇨🇳",CCTV世界地理
@@ -133,7 +135,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #http://122.241.210.180:4022/udp/233.50.200.192:5140
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png", 凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台4K
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
