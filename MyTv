@@ -63,8 +63,7 @@ http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 #EXTINF:-1,tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="CCTV🇨🇳",CCTV电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
-#EXTINF:-1,tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="CCTV🇨🇳",法治天地
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
+
 
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽卫视
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
@@ -125,8 +124,33 @@ http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahgj.jpg", 安徽国际
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
-#EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://bkimg.cdn.bcebos.com/pic/2fdda3cc7cd98d1001e9889d9177af0e7bec54e73a4c?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_312", 生活时尚
+#EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://live.fanmingming.com/tv/G导视.png",安徽导视
+http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+
+
+#EXTINF:-1,tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字移动💿",法治天地
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
+#EXTINF:-1,tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字移动💿",中国天气
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/生活时尚.png", 生活时尚
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/IHOT爱美食.png",舌尖美食
+http://120.210.193.151:8006/120000000058/GITV-AH-25/GITV-AH-25.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png",历史解密
+http://120.210.193.151:8006/120000000058/GITV-AH-24/GITV-AH-24.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",梨园频道
+http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/文物宝库.png",文物宝库
+http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+#EXTINF:-1, group-title="数字移动💿"tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
+
+
+
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -176,8 +200,6 @@ http://120.210.193.151:8006/120000000058/GITV-AH-13/GITV-AH-13.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-14/GITV-AH-14.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png",精品综合
 http://120.210.193.151:8006/120000000058/GITV-AH-20/GITV-AH-20.m3u8
-#EXTINF:-1, group-title="电影电视🎬"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png",精品记录
 http://120.210.193.151:8006/120000000058/GITV-AH-8/GITV-AH-8.m3u8
 
@@ -423,7 +445,6 @@ http://120.210.193.151:8006/120000000058/GITV-AH-23/GITV-AH-23.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
-
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
 #EXTINF:-1  group-title="4K频道🌈"tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",纪实科教8K
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
