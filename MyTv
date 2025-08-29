@@ -163,6 +163,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",无线新闻台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png",台视新闻
