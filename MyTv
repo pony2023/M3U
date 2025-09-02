@@ -1,7 +1,7 @@
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视4K超高清
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1756566613&sign=2c5422e279144ed5dea77d665ce4288d
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1756816812&sign=770ee6884a7ce4668da53330b96df832
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1756619409&sign=59680637fba7bdd02220aec975d963a8
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -81,7 +81,6 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/i
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202211/16/101458xkkybr3uu30403kd.png", 北京卫视
 http://120.210.193.151:8006/120000000058/G_BEIJING-CQ/index.m3u8
 #EXTINF:-1 group-title="省级卫视📡" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京纪实科教.png",北京纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1756294211&sign=135a52c082a3698c9927959bcb6070f7
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/tianjin.png", 天津卫视
 http://120.210.193.151:8006/120000000058/G_TIANJIN-CQ/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
