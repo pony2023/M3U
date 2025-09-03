@@ -1,8 +1,8 @@
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视4K超高清
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1756905018&sign=b211e6fd7b0f4a6d9920076a5f144555
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1756816812&sign=770ee6884a7ce4668da53330b96df832
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1756619409&sign=59680637fba7bdd02220aec975d963a8
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/苏州4k.png", 苏州4K
@@ -109,9 +109,12 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dong
 http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png", 黑龙江卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
-
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥新闻
 http://120.210.193.151:8006/120000001002/XMThfxw/index.m3u8
+#EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HEFEITV2/HEFEITV2.jpg?1", 合肥生活
+http://112.27.235.94:8000/hls/19/index.m3u8
+#EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥科创
+http://112.27.235.94:8000/hls/20/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg", 安徽综艺体育
 http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahjjsh.jpg", 安徽经济生活
