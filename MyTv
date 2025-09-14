@@ -1,8 +1,7 @@
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视4K超高清
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1757434840&sign=4ea9c5f4487fe2c02786d6880ac5fa2c
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1757316611&sign=2a532e96a4b0414c808489a9c74ba2e5
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1757864411&sign=ff415ae8ed8d3a29579d3bbc6752fabe
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/苏州4k.png", 苏州4K
