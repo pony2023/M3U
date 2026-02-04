@@ -1,5 +1,8 @@
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
+#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视4K超高清
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1770188415&sign=f18302c8e94927a1cda88627c8db4f38
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
