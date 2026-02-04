@@ -69,6 +69,12 @@ http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 #EXTINF:-1,tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="CCTV🇨🇳",CCTV电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png", TVBplus
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://www.asiasatv.com/wp-content/uploads/2023/07/589f46511a845d76bd8eeba78e22628_%E5%89%AF%E6%9C%AC.png”,亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/anhui.png", 安徽卫视
 http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
@@ -133,7 +139,6 @@ http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://live.fanmingming.com/tv/G导视.png",安徽导视
 http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
-
 
 #EXTINF:-1,tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字移动📀",法治天地
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
