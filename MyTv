@@ -69,7 +69,7 @@ http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 #EXTINF:-1,tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="CCTV🇨🇳",CCTV电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 
-#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台明珠台
+#EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png", TVBplus
 https://o11.163189.xyz/stream/tvb/tvbp/
