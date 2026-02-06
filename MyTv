@@ -98,7 +98,7 @@ http://120.210.193.151:8006/120000000058/G_SHANDONG-CQ/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/liaoning.png", 辽宁卫视
 http://120.210.193.151:8006/120000000058/G_LIAONING-CQ/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/jiangxi.png", 江西卫视
-,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/guizhou.png", 贵州卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视
