@@ -123,7 +123,7 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dong
 http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true", 黑龙江卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
-#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南国都市4K.png" group-title="省级卫视📡",南国都市
+#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南国都市.png" group-title="省级卫视📡",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 
@@ -363,6 +363,8 @@ http://fl3.moveonjoy.com/TV_ONE/index.m3u8
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 group-title="Global🌎",CMTV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1 group-title="Global🌎",Sex
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎",Tennis Channel
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Global🌎",Loupe 4K
@@ -421,8 +423,6 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="Global🌎",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Global🌎",Sex
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎",Pop Up
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎",World Poker Tour
