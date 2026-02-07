@@ -82,7 +82,7 @@ http://120.210.193.151:8006/120000000058/G_ANHUI-CQ/index.m3u8
 http://120.210.193.151:8006/120000000058/G_HUNAN-CQ/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
 http://120.210.193.151:8006/120000000058/G_DONGFANG-CQ/index.m3u8
-#EXTINF:-1, group-title="省级卫视📡"tvg-logo="https://live.fanmingming.com/tv/zhejiang.png", 浙江卫视
+#EXTINF:-1, group-title="省级卫视📡"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
 http://120.210.193.151:8006/120000000058/G_ZHEJIANG-CQ/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视
 http://120.210.193.151:8006/120000000058/G_JIANGSU-CQ/index.m3u8
@@ -412,6 +412,8 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="Global🌎",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Global🌎",Sex
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎",Pop Up
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
 #EXTINF:-1 group-title="Global🌎",World Poker Tour
