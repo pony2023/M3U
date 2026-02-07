@@ -140,30 +140,6 @@ http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://live.fanmingming.com/tv/G导视.png",安徽导视
 http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
 
-#EXTINF:-1,tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字移动📀",法治天地
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
-#EXTINF:-1,tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字移动📀",中国天气
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/生活时尚.png", 生活时尚
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/IHOT爱美食.png",舌尖美食
-http://120.210.193.151:8006/120000000058/GITV-AH-25/GITV-AH-25.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png",历史解密
-http://120.210.193.151:8006/120000000058/GITV-AH-24/GITV-AH-24.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",梨园频道
-http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/文物宝库.png",文物宝库
-http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/中国交通.png",中国交通
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_zgjt/index.m3u8
-
-
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="电影电视🎬",CHC高清电影
 http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="电影电视🎬",CHC动作电影
@@ -200,6 +176,30 @@ http://120.210.193.151:8006/120000000058/GITV-AH-14/GITV-AH-14.m3u8
 http://120.210.193.151:8006/120000000058/GITV-AH-20/GITV-AH-20.m3u8
 #EXTINF:-1, group-title="电影电视🎬" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png",精品记录
 http://120.210.193.151:8006/120000000058/GITV-AH-8/GITV-AH-8.m3u8
+
+#EXTINF:-1,tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="数字移动📀",法治天地
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
+#EXTINF:-1,tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字移动📀",中国天气
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/生活时尚.png", 生活时尚
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/IHOT爱美食.png",舌尖美食
+http://120.210.193.151:8006/120000000058/GITV-AH-25/GITV-AH-25.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png",历史解密
+http://120.210.193.151:8006/120000000058/GITV-AH-24/GITV-AH-24.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",梨园频道
+http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/文物宝库.png",文物宝库
+http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/金色学堂.png",金色学堂
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/中国交通.png",中国交通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_zgjt/index.m3u8
+
 
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png",CETV-1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
