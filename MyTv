@@ -105,7 +105,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/i
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/hubei.png", 湖北卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
-#EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/hebei.png", 河北卫视
+#EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png?raw=true", 河北卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hebeistv/1.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/chongqing.png", 重庆卫视
 http://120.210.193.151:8006/120000001002/XMTchongqingwshd/index.m3u8
@@ -115,9 +115,9 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sich
 http://120.210.193.151:8006/120000001002/XMTgswshd/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/dongnan.png", 东南卫视
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
-#EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/henan.png", 河南卫视
+#EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png?raw=true", 河南卫视
 http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
-#EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://live.fanmingming.com/tv/heilongjiang.png", 黑龙江卫视
+#EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true", 黑龙江卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥新闻
 http://120.210.193.151:8006/120000001002/XMThfxw/index.m3u8
