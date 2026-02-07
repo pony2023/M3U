@@ -1,15 +1,19 @@
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
+#EXTINF:-1, group-title="4K频道🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #http://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
+#EXTINF:-1, group-title="4K频道🌈" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视4K
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:-1, group-title="省级卫视📡" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视4K
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1, group-title="4K频道🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视4K
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1770447617&sign=cfffa47f1d59f7087d8147255954f04d
-#EXTINF:-1 ,group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
+#EXTINF:-1 ,group-title="4K频道🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台4K
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/苏州4k.png", 苏州4K
+#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png", 苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 
@@ -119,6 +123,10 @@ http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dong
 http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
 #EXTINF:-1, group-title="省级卫视📡" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png?raw=true", 黑龙江卫视
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/南国都市4K.png" group-title="省级卫视📡",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+
+
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥新闻
 http://120.210.193.151:8006/120000001002/XMThfxw/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HEFEITV2/HEFEITV2.jpg?1", 合肥生活
@@ -139,6 +147,7 @@ http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
 http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://live.fanmingming.com/tv/G导视.png",安徽导视
 http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8#http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+
 
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="电影电视🎬",CHC高清电影
 http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
