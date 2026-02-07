@@ -8,7 +8,7 @@ http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1, group-title="4K频道🌈" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视
 http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1, group-title="4K频道🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1770447617&sign=cfffa47f1d59f7087d8147255954f04d
+
 #EXTINF:-1 ,group-title="4K频道🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
