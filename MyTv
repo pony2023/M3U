@@ -1,21 +1,35 @@
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
-#EXTINF:-1, group-title="4K频道🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
+#EXTINF:-1, group-title="4K超清🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
+http://183.162.96.7:4000/rtp/238.1.79.24:4304
+#EXTINF:-1, group-title="4K超清🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#http://183.162.96.7:4000/rtp/238.1.79.28:4336
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视
+http://183.162.96.7:4000/rtp/238.1.79.38:4416
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
+http://183.162.96.7:4000/rtp/238.1.79.39:4428
 #http://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1, group-title="4K频道🌈" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视
-http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1, group-title="4K频道🌈" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视
-http://nn.7x9d.cn/深圳最新.php?id=szws4k
-#EXTINF:-1, group-title="4K频道🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
+#EXTINF:-1, group-title="4K超清🌈" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视
+#http://8.138.7.223/tv/jsws4k.php
+http://183.162.96.7:4000/rtp/238.1.78.37:4088
+#EXTINF:-1, group-title="4K超清🌈" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视
+#http://nn.7x9d.cn/深圳最新.php?id=szws4k
+http://183.162.96.7:4000/rtp/238.1.79.26:4320
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视
+http://183.162.96.7:4000/rtp/238.1.79.25:4312
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/sichuan.png", 四川卫视
+http://183.162.96.7:4000/rtp/238.1.79.51:4520
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
+http://183.162.96.7:4000/rtp/238.1.79.29:4344
 
-#EXTINF:-1 ,group-title="4K频道🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
+#EXTINF:-1 ,group-title="4K超清🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1, group-title="4K频道🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
+#EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png", 苏州4K
+#EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png", 苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
+#EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
 
 
 
@@ -202,7 +216,7 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/ind
 http://120.210.193.151:8006/120000000058/GITV-AH-25/GITV-AH-25.m3u8
 #EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png",历史解密
 http://120.210.193.151:8006/120000000058/GITV-AH-24/GITV-AH-24.m3u8
-#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",梨园频道
+#EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",梨园超清
 http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
 #EXTINF:-1, group-title="数字移动📀"tvg-logo="https://live.fanmingming.com/tv/文物宝库.png",文物宝库
 http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
@@ -441,7 +455,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森综合
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/三立新闻.png", 三立新闻
 #EXTINF:-1, group-title="Global🌎"tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png", 纬来体育
-#EXTINF:-1 group-title="4K频道🌈"tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png",北京IPTV4K
+#EXTINF:-1 group-title="4K超清🌈"tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png",北京IPTV4K
 #EXTINF:-1 group-title="Global🌎"tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png",日テレNEWS24
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://i.imgur.com/j9Gebr5.png", 民视新闻台
 #https://stream1.freetv.fun/baf543e34265345362347b7ce3235c573fe01b147495c186a0ea7f98862f3b3a.m3u8
@@ -463,8 +477,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
-#EXTINF:-1  group-title="4K频道🌈"tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",纪实科教8K
-#EXTINF:-1, group-title="4K频道🌈"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
-#EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道🌈",Fashion4K
+#EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
+#EXTINF:-1  group-title="4K超清🌈"tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",纪实科教8K
+#EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
+#EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K超清🌈",Fashion4K
 #https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
