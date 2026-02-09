@@ -18,15 +18,15 @@ http://8.138.7.223/tv/jsws4k.php
 
 
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
-http://183.162.96.7:4000/rtp/238.1.79.24:4304
+#http://183.162.96.7:4000/rtp/238.1.79.24:4304
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
-http://183.162.96.7:4000/rtp/238.1.79.39:4428
+#http://183.162.96.7:4000/rtp/238.1.79.39:4428
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视
-http://183.162.96.7:4000/rtp/238.1.79.25:4312
+#http://183.162.96.7:4000/rtp/238.1.79.25:4312
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/sichuan.png", 四川卫视
-http://183.162.96.7:4000/rtp/238.1.79.51:4520
+#http://183.162.96.7:4000/rtp/238.1.79.51:4520
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
-http://183.162.96.7:4000/rtp/238.1.79.29:4344
+#http://183.162.96.7:4000/rtp/238.1.79.29:4344
 
 #EXTINF:-1 ,group-title="4K超清🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
