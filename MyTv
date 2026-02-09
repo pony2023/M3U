@@ -18,7 +18,7 @@ http://8.138.7.223/tv/jsws4k.php
 
 
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1770601815&sign=6aa79992acf5f0e8dc558433a6cc6efb
+#https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1770601815&sign=6aa79992acf5f0e8dc558433a6cc6efb
 #http://183.162.96.7:4000/rtp/238.1.79.24:4304
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
 #http://183.162.96.7:4000/rtp/238.1.79.39:4428
