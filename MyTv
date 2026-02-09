@@ -1,32 +1,31 @@
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
-http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+http://183.162.96.75:4000/rtp/238.1.79.28:4336
+#http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 #http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#http://183.162.96.7:4000/rtp/238.1.79.38:4416
+http://183.162.96.75:4000/rtp/238.1.79.38:4416
+#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #https://migu.188766.xyz/?migutoken=6cebc11002c1ff71a180fea429b44ea9&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视
-http://nn.7x9d.cn/深圳最新.php?id=szws4k
-#http://183.162.96.7:4000/rtp/238.1.79.26:4320
+http://183.162.96.75:4000/rtp/238.1.79.26:4320
+#http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #https://migu.188766.xyz/?migutoken=dccca2b55855417c1288ab0cd7de47d5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视
-http://183.162.96.7:4000/rtp/238.1.78.37:4088
-
-
+http://183.162.96.75:4000/rtp/238.1.78.37:4088
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
-#https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1770601815&sign=6aa79992acf5f0e8dc558433a6cc6efb
-#http://183.162.96.7:4000/rtp/238.1.79.24:4304
+http://183.162.96.75:4000/rtp/238.1.79.24:4304
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
-#http://183.162.96.7:4000/rtp/238.1.79.39:4428
+http://183.162.96.75:4000/rtp/238.1.79.39:4428
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视
-#http://183.162.96.7:4000/rtp/238.1.79.25:4312
+http://183.162.96.75:4000/rtp/238.1.79.25:4312
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/sichuan.png", 四川卫视
-#http://183.162.96.7:4000/rtp/238.1.79.51:4520
+http://183.162.96.75:4000/rtp/238.1.79.51:4520
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
-#http://183.162.96.7:4000/rtp/238.1.79.29:4344
+http://183.162.96.75:4000/rtp/238.1.79.29:4344
 
 #EXTINF:-1 ,group-title="4K超清🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
