@@ -86,13 +86,10 @@ http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-#https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-#https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png", 凤凰香港
-#https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
