@@ -1,5 +1,7 @@
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
+#EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
+http://218.81.69.161:4022/rtp/233.18.204.114:5140
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -480,7 +482,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png",优漫卡通
 #EXTINF:-1, group-title="少儿卡通🧸" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
-#EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16-4K
+
 #EXTINF:-1  group-title="4K超清🌈"tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",纪实科教8K
 #EXTINF:-1, group-title="4K超清🌈"tvg-logo="https://live.fanmingming.com/tv/纯享4K.png", 纯享4K
 #EXTINF:-1,tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K超清🌈",Fashion4K
