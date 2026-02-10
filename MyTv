@@ -1,29 +1,21 @@
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
-http://183.162.96.75:4000/rtp/238.1.79.28:4336
-#http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 #http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视
-http://183.162.96.75:4000/rtp/238.1.79.38:4416
-#http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #https://migu.188766.xyz/?migutoken=6cebc11002c1ff71a180fea429b44ea9&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视
-http://183.162.96.75:4000/rtp/238.1.79.26:4320
-#http://nn.7x9d.cn/深圳最新.php?id=szws4k
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #https://migu.188766.xyz/?migutoken=dccca2b55855417c1288ab0cd7de47d5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视
-http://183.162.96.75:4000/rtp/238.1.78.37:4088
 #EXTINF:-1, group-title="4K超清🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
-http://183.162.96.75:4000/rtp/238.1.79.24:4304
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
-http://183.162.96.75:4000/rtp/238.1.79.39:4428
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视
-http://183.162.96.75:4000/rtp/238.1.79.25:4312
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/sichuan.png", 四川卫视
-http://183.162.96.75:4000/rtp/238.1.79.51:4520
 #EXTINF:-1, group-title="4K超清🌈" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
 http://183.162.96.75:4000/rtp/238.1.79.29:4344
 
@@ -91,6 +83,15 @@ http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 #EXTINF:-1,tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="CCTV🇨🇳",CCTV电视指南
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 
+#EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
+#https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
+http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13966708210&pwd=mazure1
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
+#https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13966708210&pwd=mazure1
+#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png", 凤凰香港
+#https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png", TVBplus
@@ -471,9 +472,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #https://stream1.freetv.fun/3d8064bc663ec4753642b7f18ab57c74edd7619471061d60b35ba9d51492bfcc.m3u8
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBCNews.png", 东森live
 #https://stream1.freetv.fun/970273bd8b07e9861a24582d0783d9b68899d96cd1fe355f0f6be5e80c6ad768.m3u8
-#EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-#EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png", 凤凰香港
+
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",无线新闻台
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://raw.githubusercontent.com/pony2023/M3U/main/Logo/大立电视.png", 大立电视
