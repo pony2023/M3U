@@ -1,7 +1,6 @@
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png", CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1, group-title="4K🌈"tvg-logo="https://live.fanmingming.com/tv/CCTV16.png", CCTV16
-http://218.81.69.161:4022/rtp/233.18.204.114:5140
 #EXTINF:-1, group-title="4K🌈" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png", 浙江卫视
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -87,11 +86,11 @@ http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
 http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
 
 #EXTINF:-1, group-title="港澳台🇭🇰" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png", 凤凰中文
-http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13966708210&pwd=mazure1
+#http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png", 凤凰资讯
-http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13966708210&pwd=mazure1
+#http://tv.groupshare.com.cn/fhtv?id=info&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1, group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png", 凤凰香港
-http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13966708210&pwd=mazure1
+#http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=13966708210&pwd=mazure1
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 ,group-title="港澳台🇭🇰"tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png", TVBplus
