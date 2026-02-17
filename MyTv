@@ -5,6 +5,8 @@ http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 #http://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
+http://bp-live4ktc.bestv.cn/live/dfws4k.m3u8
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/hunan.png", 湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #https://migu.188766.xyz/?migutoken=6cebc11002c1ff71a180fea429b44ea9&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
@@ -16,7 +18,7 @@ http://nn.7x9d.cn/深圳最新.php?id=szws4k
 
 #EXTINF:-1, group-title="4K🌈" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/jiangsu.png", 江苏卫视
 #EXTINF:-1, group-title="4K🌈" tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png", 北京卫视
-#EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/dongfang.png", 东方卫视
+
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/guangdong.png", 广东卫视
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/sichuan.png", 四川卫视
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
