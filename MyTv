@@ -11,7 +11,7 @@ http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #https://migu.188766.xyz/?migutoken=6cebc11002c1ff71a180fea429b44ea9&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1, group-title="4K🌈" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/shenzhen.png", 深圳卫视
-http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #https://migu.188766.xyz/?migutoken=dccca2b55855417c1288ab0cd7de47d5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1, tvg-name="欢笑剧场" group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场
 
@@ -24,7 +24,7 @@ http://nn.7x9d.cn/深圳最新.php?id=szws4k
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.com/tv/shandong.png", 山东卫视
 
 #EXTINF:-1 ,group-title="4K🌈" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
+#https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1, group-title="4K🌈" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1, group-title="4K🌈"tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png", 苏州4K
