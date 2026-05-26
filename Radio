@@ -137,10 +137,6 @@ http://ls.qingting.fm/live/1260.m3u8
 http://ls.qingting.fm/live/1289.m3u8
 #EXTINF:-1,group-title="地方"tvg-logo="https://live.fanmingming.com/radio/厦门音乐广播.png",厦门音乐广播
 http://ls.qingting.fm/live/1739.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/radio/宁波新闻综合广播.png" ,宁波新闻综合广播
-#http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/radio/宁波音乐广播.png",宁波音乐广播
-#http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/radio/宁波交通广播.png",宁波交通广播FM93.9
 http://ls.qingting.fm/live/1140.m3u8
 
