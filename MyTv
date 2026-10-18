@@ -146,11 +146,11 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥新闻
 http://120.210.193.151:8006/120000001002/XMThfxw/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://pix1.tvzhe.com/images/logo/channel/HEFEITV2/HEFEITV2.jpg?1", 合肥生活
-http://112.27.235.94:8000/hls/19/index.m3u8
+#http://112.27.235.94:8000/hls/19/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/hfxwpd.jpg", 合肥科创
-http://112.27.235.94:8000/hls/20/index.m3u8
+#http://112.27.235.94:8000/hls/20/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="https://github.com/pony2023/M3U/blob/main/Logo/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png?raw=true", 重温经典
-http://112.27.235.94:8000/hls/50/index.m3u8
+#http://112.27.235.94:8000/hls/50/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahzy.jpg", 安徽综艺体育
 http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
 #EXTINF:-1, group-title="安徽本地🐬"tvg-logo="http://www.tvyan.com/uploads/dianshi/ahjjsh.jpg", 安徽经济生活
